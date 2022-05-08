@@ -11,7 +11,7 @@ import SwiftUI
 struct Redux_patternApp: App {
     var body: some Scene {
        //For now we have only one reducer
-        let store = Store(reducer: reducer)
+        let store = Store(reducer: appReducer,state: AppState())
         
         WindowGroup {
             ContentView().environmentObject(store)

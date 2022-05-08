@@ -4,7 +4,8 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @EnvironmentObject var store: Store
+    @State private var isPresented:Bool = false
+    @EnvironmentObject var store: Store<AppState>
     
     //Rather than using store.count, it is better to use local property like below to prepare for multiple stores or reducers which manage multiple different states.
     struct Props {
@@ -12,9 +13,10 @@ struct ContentView: View {
         let onIncrement: () -> Void
         let onDecrement: () -> Void
         let onAdd: (Int) -> Void
+        
     }
     
-    private func map(state: State) -> Props {
+    private func map(state: CounterState) -> Props {
         Props(counter: state.counter, onIncrement: {
             store.dispatch(action: IncrementAction())
         }, onDecrement: {
@@ -28,11 +30,12 @@ struct ContentView: View {
     //And it is always a good idea to give the view only the things that it actually needs.
     var body: some View {
         
-        let props = map(state: store.state)
+        let props = map(state: store.state.counterState)
         
         //Text("\(store.state.counter"))
         //Beacuse this string might become very very long without variable props assignment.
         return VStack {
+            Spacer()
             Text("\(props.counter)")
                 .padding()
             Button("Increment") {
@@ -44,14 +47,23 @@ struct ContentView: View {
             Button("Add") {
                 props.onAdd(100)
             }
+            Spacer()
+            Button("add task") {
+                isPresented = true
+            }
+            Spacer()
+        }.sheet(isPresented: $isPresented) {
+//            Text("Add task view")
+            AddTaskView()
         }
+        
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         
-        let store = Store(reducer: reducer)
+        let store = Store(reducer: counterReducer, state: CounterState())
         return ContentView().environmentObject(store)
     }
 }

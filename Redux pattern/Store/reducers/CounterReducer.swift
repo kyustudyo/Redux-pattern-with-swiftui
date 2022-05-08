@@ -1,5 +1,6 @@
 
 // counterReducer deals with only the state related with counter.
+
 import Foundation
 
 func counterReducer(_ state: CounterState, _ action: Action) -> CounterState {
