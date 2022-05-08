@@ -10,8 +10,12 @@ import SwiftUI
 @main
 struct Redux_patternApp: App {
     var body: some Scene {
+       //For now we have only one reducer
+        let store = Store(reducer: reducer)
+        
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(store)
         }
     }
 }
+
