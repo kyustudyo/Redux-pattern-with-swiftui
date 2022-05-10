@@ -2,6 +2,8 @@
 
 import SwiftUI
 
+//First, go to Redux_patternApp for checking what environmentObject is used!
+
 struct ContentView: View {
     
     @EnvironmentObject var store: Store
