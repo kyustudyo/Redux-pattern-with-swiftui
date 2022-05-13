@@ -63,7 +63,7 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         
-        let store = Store(reducer: counterReducer, state: CounterState())
+        let store = Store(reducer: appReducer, state: AppState())
         return ContentView().environmentObject(store)
     }
 }

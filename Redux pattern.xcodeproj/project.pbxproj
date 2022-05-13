@@ -20,6 +20,7 @@
 		791A4B0C2827B5B9008395BF /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B0B2827B5B9008395BF /* Task.swift */; };
 		791A4B102827B67E008395BF /* TaskReducer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B0F2827B67E008395BF /* TaskReducer.swift */; };
 		791A4B122827B89B008395BF /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B112827B89B008395BF /* AddTaskView.swift */; };
+		791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B65282E4537008395BF /* LogMiddleware.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		791A4B0B2827B5B9008395BF /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		791A4B0F2827B67E008395BF /* TaskReducer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskReducer.swift; sourceTree = "<group>"; };
 		791A4B112827B89B008395BF /* AddTaskView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
+		791A4B65282E4537008395BF /* LogMiddleware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogMiddleware.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 		791A4A9F282775CF008395BF /* Redux pattern */ = {
 			isa = PBXGroup;
 			children = (
+				791A4B67282E453F008395BF /* middlewares */,
 				791A4AA0282775CF008395BF /* Redux_patternApp.swift */,
 				791A4B112827B89B008395BF /* AddTaskView.swift */,
 				791A4B0A2827B57C008395BF /* Models */,
@@ -167,6 +170,14 @@
 				791A4B0F2827B67E008395BF /* TaskReducer.swift */,
 			);
 			path = reducers;
+			sourceTree = "<group>";
+		};
+		791A4B67282E453F008395BF /* middlewares */ = {
+			isa = PBXGroup;
+			children = (
+				791A4B65282E4537008395BF /* LogMiddleware.swift */,
+			);
+			path = middlewares;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -307,6 +318,7 @@
 				791A4B102827B67E008395BF /* TaskReducer.swift in Sources */,
 				791A4B0C2827B5B9008395BF /* Task.swift in Sources */,
 				791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */,
+				791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
