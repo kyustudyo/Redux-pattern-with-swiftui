@@ -66,6 +66,7 @@
 		791A4B6E282EA086008395BF /* State_filter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = State_filter.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		791A4B70282F5727008395BF /* kvo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = kvo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsteadOfIfStatements.swift; sourceTree = "<group>"; };
+		791A4B76282F813D008395BF /* MVVM_whether.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MVVM_whether.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +199,7 @@
 				791A4B6D282E9F4B008395BF /* State_list.playground */,
 				791A4B6E282EA086008395BF /* State_filter.playground */,
 				791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */,
+				791A4B76282F813D008395BF /* MVVM_whether.playground */,
 			);
 			path = practice;
 			sourceTree = "<group>";

@@ -17,7 +17,9 @@ typealias Middleware<StoreState: ReduxState> = (StoreState, Action, @escaping Di
 struct TaskState: ReduxState {
     var tasks: [Task] = [Task]()
 }
+
 protocol ReduxState { }
+
 struct AppState : ReduxState {
     var counterState = CounterState()
     var taskState = TaskState()
