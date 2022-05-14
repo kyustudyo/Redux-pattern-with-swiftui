@@ -23,6 +23,7 @@
 		791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B65282E4537008395BF /* LogMiddleware.swift */; };
 		791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B68282E4602008395BF /* IncrementModdileware.swift */; };
 		791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */; };
+		791A4B7A2830109C008395BF /* 스크린샷 2022-05-15 오전 1.04.06.png in Resources */ = {isa = PBXBuildFile; fileRef = 791A4B792830109C008395BF /* 스크린샷 2022-05-15 오전 1.04.06.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		791A4B70282F5727008395BF /* kvo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = kvo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsteadOfIfStatements.swift; sourceTree = "<group>"; };
 		791A4B76282F813D008395BF /* MVVM_whether.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MVVM_whether.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		791A4B792830109C008395BF /* 스크린샷 2022-05-15 오전 1.04.06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-05-15 오전 1.04.06.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 		791A4B71282F5740008395BF /* practice */ = {
 			isa = PBXGroup;
 			children = (
+				791A4B792830109C008395BF /* 스크린샷 2022-05-15 오전 1.04.06.png */,
 				791A4B70282F5727008395BF /* kvo.playground */,
 				791A4B6C282E979F008395BF /* Hike.playground */,
 				791A4B6D282E9F4B008395BF /* State_list.playground */,
@@ -310,6 +313,7 @@
 			files = (
 				791A4AA8282775D1008395BF /* Preview Assets.xcassets in Resources */,
 				791A4AA5282775D1008395BF /* Assets.xcassets in Resources */,
+				791A4B7A2830109C008395BF /* 스크린샷 2022-05-15 오전 1.04.06.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
