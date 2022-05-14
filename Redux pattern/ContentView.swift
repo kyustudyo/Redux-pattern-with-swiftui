@@ -2,8 +2,6 @@
 
 import SwiftUI
 
-//Using right click, it is possible to create subview. For example, List Cell. This newly created Cell can be located in seperated file.(If it is big,)
-
 //First, go to Redux_patternApp for checking what environmentObject is used!
 
 struct ContentView: View {
@@ -11,7 +9,6 @@ struct ContentView: View {
     @EnvironmentObject var store: Store
     
     //Rather than using store.count, it is better to use local property like below to prepare for multiple stores or reducers which manage multiple different states.
-    
     struct Props {
         let counter: Int
         let onIncrement: () -> Void
