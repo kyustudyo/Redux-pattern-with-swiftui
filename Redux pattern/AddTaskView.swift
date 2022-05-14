@@ -5,7 +5,7 @@ struct AddTaskView: View {
     
     @EnvironmentObject var store: Store<AppState>
     @State private var name: String = ""
-    
+    let array = ["ab","bd","ce"]
     struct Props {
         
         // props
@@ -37,6 +37,12 @@ struct AddTaskView: View {
             List(props.tasks, id: \.id) { task in
                 Text(task.title)
             }
+            //If struct conforms hashable, \.self is okay. It is prefered to use identifiable rather than hashable.
+            
+            //[String] conforms hashable.
+//            List(array,id:\.self){ k in
+//                Text(k.hashValue.description)
+//            }
             
             Spacer()
         }.padding()

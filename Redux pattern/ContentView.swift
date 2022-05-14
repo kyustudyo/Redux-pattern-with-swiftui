@@ -8,12 +8,13 @@ struct ContentView: View {
     @EnvironmentObject var store: Store<AppState>
     
     //Rather than using store.count, it is better to use local property like below to prepare for multiple stores or reducers which manage multiple different states.
+    
     struct Props {
         let counter: Int
         let onIncrement: () -> Void
         let onDecrement: () -> Void
         let onAdd: (Int) -> Void
-        
+        let onIncrementAsync: () -> Void
     }
     
     private func map(state: CounterState) -> Props {
@@ -23,6 +24,8 @@ struct ContentView: View {
             store.dispatch(action: DecrementAction())
         }, onAdd: {
             store.dispatch(action: AddAction(value: $0))
+        }, onIncrementAsync: {
+            store.dispatch(action: IncrementActionAsync())
         })
     }
     
@@ -46,6 +49,9 @@ struct ContentView: View {
             }
             Button("Add") {
                 props.onAdd(100)
+            }
+            Button("Increment Async") {
+                props.onIncrementAsync()
             }
             Spacer()
             Button("add task") {

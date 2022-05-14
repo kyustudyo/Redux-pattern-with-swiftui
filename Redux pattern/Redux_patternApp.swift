@@ -12,7 +12,7 @@ struct Redux_patternApp: App {
     var body: some Scene {
        //For now we have only one reducer
         let store = Store(reducer: appReducer, state: AppState(),
-                          middlewares: [logMiddleware()])
+                          middlewares: [logMiddleware(),incrementMiddleware()])
         
         WindowGroup {
             ContentView().environmentObject(store)
