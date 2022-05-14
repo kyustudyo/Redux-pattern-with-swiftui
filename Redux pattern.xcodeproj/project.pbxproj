@@ -21,6 +21,8 @@
 		791A4B102827B67E008395BF /* TaskReducer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B0F2827B67E008395BF /* TaskReducer.swift */; };
 		791A4B122827B89B008395BF /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B112827B89B008395BF /* AddTaskView.swift */; };
 		791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B65282E4537008395BF /* LogMiddleware.swift */; };
+		791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B68282E4602008395BF /* IncrementModdileware.swift */; };
+		791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +60,12 @@
 		791A4B0F2827B67E008395BF /* TaskReducer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskReducer.swift; sourceTree = "<group>"; };
 		791A4B112827B89B008395BF /* AddTaskView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
 		791A4B65282E4537008395BF /* LogMiddleware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogMiddleware.swift; sourceTree = "<group>"; };
+		791A4B68282E4602008395BF /* IncrementModdileware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncrementModdileware.swift; sourceTree = "<group>"; };
+		791A4B6C282E979F008395BF /* Hike.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Hike.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		791A4B6D282E9F4B008395BF /* State_list.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = State_list.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		791A4B6E282EA086008395BF /* State_filter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = State_filter.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		791A4B70282F5727008395BF /* kvo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = kvo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsteadOfIfStatements.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +116,7 @@
 		791A4A9F282775CF008395BF /* Redux pattern */ = {
 			isa = PBXGroup;
 			children = (
+				791A4B71282F5740008395BF /* practice */,
 				791A4B67282E453F008395BF /* middlewares */,
 				791A4AA0282775CF008395BF /* Redux_patternApp.swift */,
 				791A4B112827B89B008395BF /* AddTaskView.swift */,
@@ -176,8 +185,21 @@
 			isa = PBXGroup;
 			children = (
 				791A4B65282E4537008395BF /* LogMiddleware.swift */,
+				791A4B68282E4602008395BF /* IncrementModdileware.swift */,
 			);
 			path = middlewares;
+			sourceTree = "<group>";
+		};
+		791A4B71282F5740008395BF /* practice */ = {
+			isa = PBXGroup;
+			children = (
+				791A4B70282F5727008395BF /* kvo.playground */,
+				791A4B6C282E979F008395BF /* Hike.playground */,
+				791A4B6D282E9F4B008395BF /* State_list.playground */,
+				791A4B6E282EA086008395BF /* State_filter.playground */,
+				791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */,
+			);
+			path = practice;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -313,8 +335,10 @@
 				791A4B092827AF37008395BF /* AppReducer.swift in Sources */,
 				791A4B082827AF37008395BF /* CounterReducer.swift in Sources */,
 				791A4ACD282775F4008395BF /* Store.swift in Sources */,
+				791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */,
 				791A4B122827B89B008395BF /* AddTaskView.swift in Sources */,
 				791A4AA3282775CF008395BF /* ContentView.swift in Sources */,
+				791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */,
 				791A4B102827B67E008395BF /* TaskReducer.swift in Sources */,
 				791A4B0C2827B5B9008395BF /* Task.swift in Sources */,
 				791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */,
