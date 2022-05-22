@@ -6,9 +6,12 @@
 //
 
 import SwiftUI
-
 @main
 struct Redux_patternApp: App {
+    init() {
+        
+//        SDK.doSomeWork()
+    }
     var body: some Scene {
        //For now we have only one reducer
         let store = Store(reducer: appReducer, state: AppState(),
@@ -16,6 +19,7 @@ struct Redux_patternApp: App {
         
         WindowGroup {
             ContentView().environmentObject(store)
+            
         }
     }
 }
