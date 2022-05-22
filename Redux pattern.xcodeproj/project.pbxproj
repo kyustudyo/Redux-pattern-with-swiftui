@@ -78,6 +78,7 @@
 		79AD218C28385E7B00F9F3E4 /* enum_2.17.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218528385E7A00F9F3E4 /* enum_2.17.33.png */; };
 		79AD218D28385E7B00F9F3E4 /* enum_general 12.18.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */; };
 		79AD218E28385E7B00F9F3E4 /* customstringconvertible 12.18.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */; };
+		79D33B7E283A5378002B09BF /* viewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D33B7D283A5378002B09BF /* viewBuilder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -179,6 +180,8 @@
 		79AD218528385E7A00F9F3E4 /* enum_2.17.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum_2.17.33.png; sourceTree = "<group>"; };
 		79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum_general 12.18.40.png"; sourceTree = "<group>"; };
 		79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "customstringconvertible 12.18.14.png"; sourceTree = "<group>"; };
+		79D33B7C283A4F7D002B09BF /* propertyWrapper.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = propertyWrapper.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		79D33B7D283A5378002B09BF /* viewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewBuilder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -349,6 +352,7 @@
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				79D33B7B283A4F6F002B09BF /* 5_23 */,
 				798ECAB32839359400E1FDB2 /* 5_22 */,
 				79AD218028385E6900F9F3E4 /* 5_21 */,
 				79AD21712837E08800F9F3E4 /* view_background.png */,
@@ -395,6 +399,15 @@
 				79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */,
 			);
 			path = 5_21;
+			sourceTree = "<group>";
+		};
+		79D33B7B283A4F6F002B09BF /* 5_23 */ = {
+			isa = PBXGroup;
+			children = (
+				79D33B7C283A4F7D002B09BF /* propertyWrapper.playground */,
+				79D33B7D283A5378002B09BF /* viewBuilder.swift */,
+			);
+			path = 5_23;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -595,6 +608,7 @@
 				791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */,
 				791A4B102827B67E008395BF /* TaskReducer.swift in Sources */,
 				791A4B0C2827B5B9008395BF /* Task.swift in Sources */,
+				79D33B7E283A5378002B09BF /* viewBuilder.swift in Sources */,
 				791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */,
 				791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */,
 			);
