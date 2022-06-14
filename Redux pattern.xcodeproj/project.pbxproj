@@ -25,6 +25,24 @@
 		791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B68282E4602008395BF /* IncrementModdileware.swift */; };
 		791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */; };
 		791A4B7A2830109C008395BF /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 791A4B792830109C008395BF /* background.png */; };
+		7936113E28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */; };
+		7936113F28573903009A2494 /* Zstack 5.51.22.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112E28573903009A2494 /* Zstack 5.51.22.png */; };
+		7936114028573903009A2494 /* enum12.48.05.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112F28573903009A2494 /* enum12.48.05.png */; };
+		7936114128573903009A2494 /* init throw12.57.35.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113028573903009A2494 /* init throw12.57.35.png */; };
+		7936114228573903009A2494 /* view if let 4.27.31.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113128573903009A2494 /* view if let 4.27.31.png */; };
+		7936114328573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113228573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png */; };
+		7936114528573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113428573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png */; };
+		7936114628573903009A2494 /* Screen11.18.41.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113528573903009A2494 /* Screen11.18.41.png */; };
+		7936114828573903009A2494 /* sheet을 enum을 통해11.13.08.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113728573903009A2494 /* sheet을 enum을 통해11.13.08.png */; };
+		7936114928573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113828573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png */; };
+		7936114A28573903009A2494 /* 누르면 이거하기10.22.44.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113928573903009A2494 /* 누르면 이거하기10.22.44.png */; };
+		7936114B28573903009A2494 /* Zstack image toptrailing 11.02.25.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113A28573903009A2494 /* Zstack image toptrailing 11.02.25.png */; };
+		7936114C28573903009A2494 /* Zstack image toptrailing 11.03.18.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113B28573903009A2494 /* Zstack image toptrailing 11.03.18.png */; };
+		7936114D28573903009A2494 /* foreach 각 요소 버튼으로 만들기 클로저.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113C28573903009A2494 /* foreach 각 요소 버튼으로 만들기 클로저.png */; };
+		7936114E28573903009A2494 /* sheet enum11.09.32.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936113D28573903009A2494 /* sheet enum11.09.32.png */; };
+		7937EC9C285747150079DB71 /* dispatchqueue 메인 여기서함 7.21.03.png in Resources */ = {isa = PBXBuildFile; fileRef = 7937EC9B285747150079DB71 /* dispatchqueue 메인 여기서함 7.21.03.png */; };
+		7937EC9E285748510079DB71 /* sheet enum 7.25.48.png in Resources */ = {isa = PBXBuildFile; fileRef = 7937EC9D285748510079DB71 /* sheet enum 7.25.48.png */; };
+		7937ECA0285749C20079DB71 /* textfield 이용 7.31.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 7937EC9F285749C20079DB71 /* textfield 이용 7.31.43.png */; };
 		794C3C8728530C03003A2BE2 /* 스크린샷 2022-06-09 오후 11.25.30.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C6F28530C00003A2BE2 /* 스크린샷 2022-06-09 오후 11.25.30.png */; };
 		794C3C8828530C03003A2BE2 /* 자체stack 9.11.35.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7028530C01003A2BE2 /* 자체stack 9.11.35.png */; };
 		794C3C8A28530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.26.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7228530C01003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.26.png */; };
@@ -33,7 +51,6 @@
 		794C3C8E28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.20.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7628530C01003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.20.png */; };
 		794C3C8F28530C03003A2BE2 /* background10.02.42.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7728530C01003A2BE2 /* background10.02.42.png */; };
 		794C3C9128530C03003A2BE2 /* 스크린샷 2022-06-05 오후 6.55.46.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7928530C01003A2BE2 /* 스크린샷 2022-06-05 오후 6.55.46.png */; };
-		794C3C9228530C03003A2BE2 /* 스크린샷 2022-06-05 오후 9.52.36.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7A28530C01003A2BE2 /* 스크린샷 2022-06-05 오후 9.52.36.png */; };
 		794C3C9328530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.39.58.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7B28530C01003A2BE2 /* 스크린샷 2022-06-06 오후 1.39.58.png */; };
 		794C3C9428530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.12.19.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7C28530C02003A2BE2 /* 스크린샷 2022-06-05 오후 1.12.19.png */; };
 		794C3C9528530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.31.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C7D28530C02003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.31.png */; };
@@ -187,6 +204,25 @@
 		791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsteadOfIfStatements.swift; sourceTree = "<group>"; };
 		791A4B76282F813D008395BF /* MVVM_whether.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MVVM_whether.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		791A4B792830109C008395BF /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum에서 switch case로  extension 11.29.12.png"; sourceTree = "<group>"; };
+		7936112E28573903009A2494 /* Zstack 5.51.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Zstack 5.51.22.png"; sourceTree = "<group>"; };
+		7936112F28573903009A2494 /* enum12.48.05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum12.48.05.png; sourceTree = "<group>"; };
+		7936113028573903009A2494 /* init throw12.57.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "init throw12.57.35.png"; sourceTree = "<group>"; };
+		7936113128573903009A2494 /* view if let 4.27.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "view if let 4.27.31.png"; sourceTree = "<group>"; };
+		7936113228573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dispatchqueu 메인 여기서안해도댐 4.13.45.png"; sourceTree = "<group>"; };
+		7936113428573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "textfield viewmodel에 넣는다11.19.28.png"; sourceTree = "<group>"; };
+		7936113528573903009A2494 /* Screen11.18.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen11.18.41.png; sourceTree = "<group>"; };
+		7936113728573903009A2494 /* sheet을 enum을 통해11.13.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sheet을 enum을 통해11.13.08.png"; sourceTree = "<group>"; };
+		7936113828573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navigationview 신박하게 붙히기11.31.56.png"; sourceTree = "<group>"; };
+		7936113928573903009A2494 /* 누르면 이거하기10.22.44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "누르면 이거하기10.22.44.png"; sourceTree = "<group>"; };
+		7936113A28573903009A2494 /* Zstack image toptrailing 11.02.25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Zstack image toptrailing 11.02.25.png"; sourceTree = "<group>"; };
+		7936113B28573903009A2494 /* Zstack image toptrailing 11.03.18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Zstack image toptrailing 11.03.18.png"; sourceTree = "<group>"; };
+		7936113C28573903009A2494 /* foreach 각 요소 버튼으로 만들기 클로저.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "foreach 각 요소 버튼으로 만들기 클로저.png"; sourceTree = "<group>"; };
+		7936113D28573903009A2494 /* sheet enum11.09.32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sheet enum11.09.32.png"; sourceTree = "<group>"; };
+		7937EC9B285747150079DB71 /* dispatchqueue 메인 여기서함 7.21.03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dispatchqueue 메인 여기서함 7.21.03.png"; sourceTree = "<group>"; };
+		7937EC9D285748510079DB71 /* sheet enum 7.25.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sheet enum 7.25.48.png"; sourceTree = "<group>"; };
+		7937EC9F285749C20079DB71 /* textfield 이용 7.31.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "textfield 이용 7.31.43.png"; sourceTree = "<group>"; };
+		7937ECB72858ADB60079DB71 /* conditional-conformance 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "conditional-conformance 2.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		794C3C6F28530C00003A2BE2 /* 스크린샷 2022-06-09 오후 11.25.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-09 오후 11.25.30.png"; sourceTree = "<group>"; };
 		794C3C7028530C01003A2BE2 /* 자체stack 9.11.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "자체stack 9.11.35.png"; sourceTree = "<group>"; };
 		794C3C7228530C01003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-06 오후 1.04.26.png"; sourceTree = "<group>"; };
@@ -195,7 +231,6 @@
 		794C3C7628530C01003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-05 오후 1.15.20.png"; sourceTree = "<group>"; };
 		794C3C7728530C01003A2BE2 /* background10.02.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background10.02.42.png; sourceTree = "<group>"; };
 		794C3C7928530C01003A2BE2 /* 스크린샷 2022-06-05 오후 6.55.46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-05 오후 6.55.46.png"; sourceTree = "<group>"; };
-		794C3C7A28530C01003A2BE2 /* 스크린샷 2022-06-05 오후 9.52.36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-05 오후 9.52.36.png"; sourceTree = "<group>"; };
 		794C3C7B28530C01003A2BE2 /* 스크린샷 2022-06-06 오후 1.39.58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-06 오후 1.39.58.png"; sourceTree = "<group>"; };
 		794C3C7C28530C02003A2BE2 /* 스크린샷 2022-06-05 오후 1.12.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-05 오후 1.12.19.png"; sourceTree = "<group>"; };
 		794C3C7D28530C02003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-06 오후 1.04.31.png"; sourceTree = "<group>"; };
@@ -462,7 +497,6 @@
 				794C3C7E28530C02003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.44.png */,
 				794C3C7F28530C02003A2BE2 /* 스크린샷 2022-06-05 오후 5.51.50.png */,
 				794C3C7928530C01003A2BE2 /* 스크린샷 2022-06-05 오후 6.55.46.png */,
-				794C3C7A28530C01003A2BE2 /* 스크린샷 2022-06-05 오후 9.52.36.png */,
 				794C3C7328530C01003A2BE2 /* 스크린샷 2022-06-05 오후 12.53.04.png */,
 				794C3C7228530C01003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.26.png */,
 				794C3C7D28530C02003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.31.png */,
@@ -595,6 +629,25 @@
 		79B3F0A22856EC4D005BA85B /* 6_13 */ = {
 			isa = PBXGroup;
 			children = (
+				7937ECB72858ADB60079DB71 /* conditional-conformance 2.playground */,
+				7936113928573903009A2494 /* 누르면 이거하기10.22.44.png */,
+				7936113C28573903009A2494 /* foreach 각 요소 버튼으로 만들기 클로저.png */,
+				7937EC9F285749C20079DB71 /* textfield 이용 7.31.43.png */,
+				7936113D28573903009A2494 /* sheet enum11.09.32.png */,
+				7937EC9D285748510079DB71 /* sheet enum 7.25.48.png */,
+				7936113728573903009A2494 /* sheet을 enum을 통해11.13.08.png */,
+				7936113528573903009A2494 /* Screen11.18.41.png */,
+				7936113428573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png */,
+				7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */,
+				7936113828573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png */,
+				7936113228573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png */,
+				7937EC9B285747150079DB71 /* dispatchqueue 메인 여기서함 7.21.03.png */,
+				7936113128573903009A2494 /* view if let 4.27.31.png */,
+				7936112E28573903009A2494 /* Zstack 5.51.22.png */,
+				7936113A28573903009A2494 /* Zstack image toptrailing 11.02.25.png */,
+				7936113B28573903009A2494 /* Zstack image toptrailing 11.03.18.png */,
+				7936112F28573903009A2494 /* enum12.48.05.png */,
+				7936113028573903009A2494 /* init throw12.57.35.png */,
 				79B3F0A32856EC59005BA85B /* erro.playground */,
 			);
 			path = 6_13;
@@ -762,34 +815,45 @@
 				79AD218D28385E7B00F9F3E4 /* enum_general 12.18.40.png in Resources */,
 				794C3C9728530C03003A2BE2 /* 스크린샷 2022-06-05 오후 5.51.50.png in Resources */,
 				7991F9852843A3BF00DCAFB8 /* 가위바위보comparable 3.26.28.png in Resources */,
+				7936114D28573903009A2494 /* foreach 각 요소 버튼으로 만들기 클로저.png in Resources */,
 				79D33C2C283CDC1F002B09BF /* modifiedcontent까지다적을순없으므로12.52.43.png in Resources */,
 				794C3C9828530C03003A2BE2 /* 스크린샷 2022-06-07 오후 3.43.37.png in Resources */,
 				798ECACE283935A900E1FDB2 /* navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png in Resources */,
 				79D33C10283CDC1F002B09BF /* frame으로키우기 8.25.08.png in Resources */,
+				7936114128573903009A2494 /* init throw12.57.35.png in Resources */,
 				79AD21742837E08800F9F3E4 /* 사실 func 은 행하고 return하므로 taylor가 없어져야하는데 weak안하면 stroing 므로 deinit안함10.09.25.png in Resources */,
 				79AD21482833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png in Resources */,
 				794C3C8E28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.20.png in Resources */,
 				79AD215E2837CC2F00F9F3E4 /* viewmodifier11.09.41.png in Resources */,
+				7936114528573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png in Resources */,
 				79D33C27283CDC1F002B09BF /* default 9.53.49.png in Resources */,
 				79D33C25283CDC1F002B09BF /* stateobject두번째뷰에서10.07.04.png in Resources */,
 				79D33C20283CDC1F002B09BF /* 점점점 11.35.31.png in Resources */,
 				79D33C13283CDC1F002B09BF /* type property computed property된다돈 9.51.27.png in Resources */,
+				7936114C28573903009A2494 /* Zstack image toptrailing 11.03.18.png in Resources */,
 				794C3C9628530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.44.png in Resources */,
 				7991F9802843A3BF00DCAFB8 /* modifier2 9.10.24.png in Resources */,
 				7991F9822843A3BF00DCAFB8 /* 0.0,0.1,0.key 12.45.10.png in Resources */,
 				798ECAC8283935A900E1FDB2 /* custom_statusbar12.39.55.png in Resources */,
 				798ECADA283935A900E1FDB2 /* 점세개 11.35.31.png in Resources */,
 				794C3C8828530C03003A2BE2 /* 자체stack 9.11.35.png in Resources */,
+				7936114E28573903009A2494 /* sheet enum11.09.32.png in Resources */,
+				7936114828573903009A2494 /* sheet을 enum을 통해11.13.08.png in Resources */,
 				79AD217B2837E08800F9F3E4 /* zstack 이런식으로 8.55.37.png in Resources */,
 				798ECAC9283935A900E1FDB2 /* enum_mutatingᆫ 9.31.39.png in Resources */,
 				79AD21602837CC2F00F9F3E4 /* padding2 3.38.29.png in Resources */,
 				79AD21762837E08800F9F3E4 /* strong이면 deinit안함. 변수에 안넣으면 deinit함11.42.28.png in Resources */,
 				798ECADB283935A900E1FDB2 /* 그래디언트 center까지만12.34.24.png in Resources */,
 				79AD21772837E08800F9F3E4 /* deinit돼서 노래안부름10.40.57.png in Resources */,
+				7936114028573903009A2494 /* enum12.48.05.png in Resources */,
+				7936114328573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png in Resources */,
 				794C3C9328530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.39.58.png in Resources */,
 				798ECACD283935A900E1FDB2 /* lazy_If_expensive 9.46.15.png in Resources */,
+				7936113F28573903009A2494 /* Zstack 5.51.22.png in Resources */,
 				798ECACF283935A900E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png in Resources */,
 				791A4AA8282775D1008395BF /* Preview Assets.xcassets in Resources */,
+				7936114928573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png in Resources */,
+				7936114A28573903009A2494 /* 누르면 이거하기10.22.44.png in Resources */,
 				79D33C23283CDC1F002B09BF /* forcolor_backcolor 6.15.36.png in Resources */,
 				798ECAD9283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.27.58.png in Resources */,
 				794C3C8D28530C03003A2BE2 /* preview_layout 1.01.37.png in Resources */,
@@ -807,7 +871,9 @@
 				79AD21752837E08800F9F3E4 /* color static 8.17.23.png in Resources */,
 				798ECAD6283935A900E1FDB2 /* enum_let앞에서하거나 뒤에서하거나안 9.43.49.png in Resources */,
 				794C3C9528530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.31.png in Resources */,
+				7936114228573903009A2494 /* view if let 4.27.31.png in Resources */,
 				794C3C9C28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.02.png in Resources */,
+				7936114B28573903009A2494 /* Zstack image toptrailing 11.02.25.png in Resources */,
 				798ECADD2839383D00E1FDB2 /* singleton 12.09.43.png in Resources */,
 				79D33C34283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png in Resources */,
 				79AD215D2837CC2F00F9F3E4 /* state 9.55.01.png in Resources */,
@@ -826,6 +892,7 @@
 				79D33C28283CDC1F002B09BF /* background간지12.34.24.png in Resources */,
 				794C3C8B28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 12.53.04.png in Resources */,
 				79AD21592837CC2F00F9F3E4 /* viewmodel init에 바로박기도함12.23.06.png in Resources */,
+				7937EC9C285747150079DB71 /* dispatchqueue 메인 여기서함 7.21.03.png in Resources */,
 				79AD217C2837E08800F9F3E4 /* 흰색으로 할경우 이미지 작아지게할수있다 9.23.51.png in Resources */,
 				7991F9892843A3BF00DCAFB8 /* offset을 저기다하면 모양만 이동한다. button에다가 해야함 3.07.15.png in Resources */,
 				794C3C9128530C03003A2BE2 /* 스크린샷 2022-06-05 오후 6.55.46.png in Resources */,
@@ -838,11 +905,13 @@
 				794C3C9428530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.12.19.png in Resources */,
 				798ECAD8283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.25.02.png in Resources */,
 				79D33C14283CDC1F002B09BF /* 간단하게 만들수있지만 느리다 10.50.24.png in Resources */,
+				7937ECA0285749C20079DB71 /* textfield 이용 7.31.43.png in Resources */,
 				7991F9812843A3BF00DCAFB8 /* enum_result 3.29.40.png in Resources */,
 				798ECACB283935A900E1FDB2 /* computedPropertyᆫ 9.46.28.png in Resources */,
 				794C3C9E28530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.33.42.png in Resources */,
 				794C3C9B28530C03003A2BE2 /* Result 8.43.39.png in Resources */,
 				798ECAD5283935A900E1FDB2 /* ??navigationview안에있는데도 안되네..??? 9.16.16.png in Resources */,
+				7937EC9E285748510079DB71 /* sheet enum 7.25.48.png in Resources */,
 				79AD218A28385E7B00F9F3E4 /* enum 12.15.21.png in Resources */,
 				798ECAD4283935A900E1FDB2 /* progress_bar 11.41.53.png in Resources */,
 				79AD217F2837E08800F9F3E4 /* view_background.png in Resources */,
@@ -869,10 +938,11 @@
 				798ECACA283935A900E1FDB2 /* zstack다음화면예측.54.40.png in Resources */,
 				798ECAD3283935A900E1FDB2 /* computed_static가능 9.51.27.png in Resources */,
 				7991F98A2843A3BF00DCAFB8 /* padding위험11.45.37.png in Resources */,
+				7936113E28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png in Resources */,
 				7991F9842843A3BF00DCAFB8 /* equatable 3.14.35.png in Resources */,
-				794C3C9228530C03003A2BE2 /* 스크린샷 2022-06-05 오후 9.52.36.png in Resources */,
 				7991F9832843A3BF00DCAFB8 /* optional_map 3.01.32.png in Resources */,
 				794C3C9D28530C03003A2BE2 /* linelimit 1.07.18.png in Resources */,
+				7936114628573903009A2494 /* Screen11.18.41.png in Resources */,
 				7991F98F2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
