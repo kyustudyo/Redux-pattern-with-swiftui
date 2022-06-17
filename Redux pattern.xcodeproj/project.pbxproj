@@ -119,6 +119,21 @@
 		7991F98E2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png in Resources */ = {isa = PBXBuildFile; fileRef = 7991F98C2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png */; };
 		7991F98F2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png in Resources */ = {isa = PBXBuildFile; fileRef = 7991F98D2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png */; };
 		7991F9912843A3D200DCAFB8 /* getset.png in Resources */ = {isa = PBXBuildFile; fileRef = 7991F9902843A3D200DCAFB8 /* getset.png */; };
+		79A796A7285C9AD3000AE339 /* frame 10.53.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969A285C9AD3000AE339 /* frame 10.53.15.png */; };
+		79A796A8285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.02.35.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969B285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.02.35.png */; };
+		79A796A9285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.16.08.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969C285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.16.08.png */; };
+		79A796AA285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.30.16.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969D285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.30.16.png */; };
+		79A796AB285C9AD3000AE339 /* Lazy11.33.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969E285C9AD3000AE339 /* Lazy11.33.54.png */; };
+		79A796AC285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 5.01.47.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969F285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 5.01.47.png */; };
+		79A796AD285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.44.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796A0285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.44.33.png */; };
+		79A796AE285C9AD3000AE339 /* GridItem멋있게짓기 10.59.35.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796A1285C9AD3000AE339 /* GridItem멋있게짓기 10.59.35.png */; };
+		79A796AF285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.52.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796A2285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.52.13.png */; };
+		79A796B0285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.32.35.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796A3285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.32.35.png */; };
+		79A796B1285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.32.01.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796A4285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.32.01.png */; };
+		79A796B2285C9AD3000AE339 /* LazyisMutating11.27.30.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796A5285C9AD3000AE339 /* LazyisMutating11.27.30.png */; };
+		79A796B3285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.49.00.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796A6285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.49.00.png */; };
+		79A796B5285C9B5E000AE339 /* image_frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A796B4285C9B5E000AE339 /* image_frame.swift */; };
+		79A796B7285CA0D7000AE339 /* image_frame2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A796B6285CA0D7000AE339 /* image_frame2.swift */; };
 		79AD21482833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21472833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png */; };
 		79AD214A2833529400F9F3E4 /* enum_nil.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21492833529400F9F3E4 /* enum_nil.png */; };
 		79AD21582837CC2F00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD214D2837CC2E00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png */; };
@@ -320,6 +335,21 @@
 		7991F98D2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum자신바꾸기둔 9.31.39.png"; sourceTree = "<group>"; };
 		7991F9902843A3D200DCAFB8 /* getset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = getset.png; sourceTree = "<group>"; };
 		79A79696285C7F9B000AE339 /* StructEnum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StructEnum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		79A7969A285C9AD3000AE339 /* frame 10.53.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame 10.53.15.png"; sourceTree = "<group>"; };
+		79A7969B285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.02.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-16 오전 11.02.35.png"; sourceTree = "<group>"; };
+		79A7969C285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.16.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 6.16.08.png"; sourceTree = "<group>"; };
+		79A7969D285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.30.16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 6.30.16.png"; sourceTree = "<group>"; };
+		79A7969E285C9AD3000AE339 /* Lazy11.33.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lazy11.33.54.png; sourceTree = "<group>"; };
+		79A7969F285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 5.01.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 5.01.47.png"; sourceTree = "<group>"; };
+		79A796A0285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.44.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 2.44.33.png"; sourceTree = "<group>"; };
+		79A796A1285C9AD3000AE339 /* GridItem멋있게짓기 10.59.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GridItem멋있게짓기 10.59.35.png"; sourceTree = "<group>"; };
+		79A796A2285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.52.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 2.52.13.png"; sourceTree = "<group>"; };
+		79A796A3285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.32.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 6.32.35.png"; sourceTree = "<group>"; };
+		79A796A4285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.32.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-16 오전 11.32.01.png"; sourceTree = "<group>"; };
+		79A796A5285C9AD3000AE339 /* LazyisMutating11.27.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LazyisMutating11.27.30.png; sourceTree = "<group>"; };
+		79A796A6285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.49.00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 2.49.00.png"; sourceTree = "<group>"; };
+		79A796B4285C9B5E000AE339 /* image_frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = image_frame.swift; sourceTree = "<group>"; };
+		79A796B6285CA0D7000AE339 /* image_frame2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = image_frame2.swift; sourceTree = "<group>"; };
 		79AD21472833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0.5초마다계속호출_즉3번problemNumber올라감.png"; sourceTree = "<group>"; };
 		79AD21492833529400F9F3E4 /* enum_nil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum_nil.png; sourceTree = "<group>"; };
 		79AD214D2837CC2E00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "viewmodel과 그 viewmodel들12.41.23.png"; path = "Redux pattern/practice/viewmodel과 그 viewmodel들12.41.23.png"; sourceTree = SOURCE_ROOT; };
@@ -648,6 +678,21 @@
 		79A79697285C977E000AE339 /* 6_17 */ = {
 			isa = PBXGroup;
 			children = (
+				79A796A5285C9AD3000AE339 /* LazyisMutating11.27.30.png */,
+				79A7969E285C9AD3000AE339 /* Lazy11.33.54.png */,
+				79A7969A285C9AD3000AE339 /* frame 10.53.15.png */,
+				79A796A1285C9AD3000AE339 /* GridItem멋있게짓기 10.59.35.png */,
+				79A7969B285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.02.35.png */,
+				79A796A4285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.32.01.png */,
+				79A796A0285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.44.33.png */,
+				79A796A6285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.49.00.png */,
+				79A796A2285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.52.13.png */,
+				79A7969F285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 5.01.47.png */,
+				79A7969C285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.16.08.png */,
+				79A7969D285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.30.16.png */,
+				79A796A3285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.32.35.png */,
+				79A796B4285C9B5E000AE339 /* image_frame.swift */,
+				79A796B6285CA0D7000AE339 /* image_frame2.swift */,
 			);
 			path = 6_17;
 			sourceTree = "<group>";
@@ -907,6 +952,7 @@
 				7983EDB228598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.31.07.png in Resources */,
 				798ECACE283935A900E1FDB2 /* navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png in Resources */,
 				79D33C10283CDC1F002B09BF /* frame으로키우기 8.25.08.png in Resources */,
+				79A796B0285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.32.35.png in Resources */,
 				7936114128573903009A2494 /* init throw12.57.35.png in Resources */,
 				79AD21742837E08800F9F3E4 /* 사실 func 은 행하고 return하므로 taylor가 없어져야하는데 weak안하면 stroing 므로 deinit안함10.09.25.png in Resources */,
 				79AD21482833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png in Resources */,
@@ -915,26 +961,33 @@
 				7983EDA828598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.07.52.png in Resources */,
 				7983EDA528598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png in Resources */,
 				7936114528573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png in Resources */,
+				79A796A8285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.02.35.png in Resources */,
 				79D33C27283CDC1F002B09BF /* default 9.53.49.png in Resources */,
 				79D33C25283CDC1F002B09BF /* stateobject두번째뷰에서10.07.04.png in Resources */,
 				79D33C20283CDC1F002B09BF /* 점점점 11.35.31.png in Resources */,
 				79D33C13283CDC1F002B09BF /* type property computed property된다돈 9.51.27.png in Resources */,
 				7936114C28573903009A2494 /* Zstack image toptrailing 11.03.18.png in Resources */,
 				794C3C9628530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.44.png in Resources */,
+				79A796AA285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.30.16.png in Resources */,
 				7991F9802843A3BF00DCAFB8 /* modifier2 9.10.24.png in Resources */,
 				7991F9822843A3BF00DCAFB8 /* 0.0,0.1,0.key 12.45.10.png in Resources */,
 				798ECAC8283935A900E1FDB2 /* custom_statusbar12.39.55.png in Resources */,
+				79A796B2285C9AD3000AE339 /* LazyisMutating11.27.30.png in Resources */,
 				798ECADA283935A900E1FDB2 /* 점세개 11.35.31.png in Resources */,
 				794C3C8828530C03003A2BE2 /* 자체stack 9.11.35.png in Resources */,
 				7936114E28573903009A2494 /* sheet enum11.09.32.png in Resources */,
+				79A796A7285C9AD3000AE339 /* frame 10.53.15.png in Resources */,
 				7936114828573903009A2494 /* sheet을 enum을 통해11.13.08.png in Resources */,
 				79AD217B2837E08800F9F3E4 /* zstack 이런식으로 8.55.37.png in Resources */,
 				798ECAC9283935A900E1FDB2 /* enum_mutatingᆫ 9.31.39.png in Resources */,
+				79A796B3285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.49.00.png in Resources */,
 				79AD21602837CC2F00F9F3E4 /* padding2 3.38.29.png in Resources */,
 				79AD21762837E08800F9F3E4 /* strong이면 deinit안함. 변수에 안넣으면 deinit함11.42.28.png in Resources */,
 				798ECADB283935A900E1FDB2 /* 그래디언트 center까지만12.34.24.png in Resources */,
 				79AD21772837E08800F9F3E4 /* deinit돼서 노래안부름10.40.57.png in Resources */,
+				79A796A9285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 6.16.08.png in Resources */,
 				7936114028573903009A2494 /* enum12.48.05.png in Resources */,
+				79A796AF285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.52.13.png in Resources */,
 				7936114328573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png in Resources */,
 				794C3C9328530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.39.58.png in Resources */,
 				798ECACD283935A900E1FDB2 /* lazy_If_expensive 9.46.15.png in Resources */,
@@ -946,6 +999,7 @@
 				7936114928573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png in Resources */,
 				7983EDB428598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.29.59.png in Resources */,
 				7936114A28573903009A2494 /* 누르면 이거하기10.22.44.png in Resources */,
+				79A796AB285C9AD3000AE339 /* Lazy11.33.54.png in Resources */,
 				79D33C23283CDC1F002B09BF /* forcolor_backcolor 6.15.36.png in Resources */,
 				798ECAD9283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.27.58.png in Resources */,
 				794C3C8D28530C03003A2BE2 /* preview_layout 1.01.37.png in Resources */,
@@ -966,6 +1020,7 @@
 				794C3C9528530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.31.png in Resources */,
 				7936114228573903009A2494 /* view if let 4.27.31.png in Resources */,
 				794C3C9C28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.02.png in Resources */,
+				79A796AD285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 2.44.33.png in Resources */,
 				7936114B28573903009A2494 /* Zstack image toptrailing 11.02.25.png in Resources */,
 				798ECADD2839383D00E1FDB2 /* singleton 12.09.43.png in Resources */,
 				79D33C34283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png in Resources */,
@@ -1000,6 +1055,7 @@
 				79AD215B2837CC2F00F9F3E4 /* background로버튼 바깥색2 3.45.04.png in Resources */,
 				794C3C9428530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.12.19.png in Resources */,
 				798ECAD8283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.25.02.png in Resources */,
+				79A796B1285C9AD3000AE339 /* 스크린샷 2022-06-16 오전 11.32.01.png in Resources */,
 				79D33C14283CDC1F002B09BF /* 간단하게 만들수있지만 느리다 10.50.24.png in Resources */,
 				7937ECA0285749C20079DB71 /* textfield 이용 7.31.43.png in Resources */,
 				7991F9812843A3BF00DCAFB8 /* enum_result 3.29.40.png in Resources */,
@@ -1030,6 +1086,7 @@
 				7983EDAB28598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.49.42.png in Resources */,
 				79D33C18283CDC1F002B09BF /* viewbuilder 5.58.26.png in Resources */,
 				794C3C8728530C03003A2BE2 /* 스크린샷 2022-06-09 오후 11.25.30.png in Resources */,
+				79A796AC285C9AD3000AE339 /* 스크린샷 2022-06-17 오후 5.01.47.png in Resources */,
 				79AD218B28385E7B00F9F3E4 /* tuple 12.08.49.png in Resources */,
 				79AD217D2837E08800F9F3E4 /* image_func.png in Resources */,
 				79AD21732837E08800F9F3E4 /* color간편 8.25.40.png in Resources */,
@@ -1039,6 +1096,7 @@
 				79D33C24283CDC1F002B09BF /* onappear을 통한 가져오기 9.51.50.png in Resources */,
 				798ECACA283935A900E1FDB2 /* zstack다음화면예측.54.40.png in Resources */,
 				798ECAD3283935A900E1FDB2 /* computed_static가능 9.51.27.png in Resources */,
+				79A796AE285C9AD3000AE339 /* GridItem멋있게짓기 10.59.35.png in Resources */,
 				7991F98A2843A3BF00DCAFB8 /* padding위험11.45.37.png in Resources */,
 				7936113E28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png in Resources */,
 				7983EDB728598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.47.13.png in Resources */,
@@ -1083,8 +1141,10 @@
 				791A4B122827B89B008395BF /* AddTaskView.swift in Sources */,
 				791A4AA3282775CF008395BF /* ContentView.swift in Sources */,
 				791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */,
+				79A796B5285C9B5E000AE339 /* image_frame.swift in Sources */,
 				791A4B102827B67E008395BF /* TaskReducer.swift in Sources */,
 				791A4B0C2827B5B9008395BF /* Task.swift in Sources */,
+				79A796B7285CA0D7000AE339 /* image_frame2.swift in Sources */,
 				79BF1787284C5C8F003A2A68 /* GemList.swift in Sources */,
 				79D33B7E283A5378002B09BF /* viewBuilder.swift in Sources */,
 				791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */,
