@@ -6,15 +6,21 @@
 //
 
 import SwiftUI
-
 @main
 struct Redux_patternApp: App {
+    init() {
+        
+//        SDK.doSomeWork()
+    }
     var body: some Scene {
        //For now we have only one reducer
-        let store = Store(reducer: appReducer,state: AppState())
+        let store = Store(reducer: appReducer, state: AppState(),
+                          middlewares: [logMiddleware(),incrementMiddleware()])
         
         WindowGroup {
             ContentView().environmentObject(store)
+//            transition()
+            
         }
     }
 }
