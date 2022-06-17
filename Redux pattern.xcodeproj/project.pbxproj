@@ -645,9 +645,17 @@
 			path = semiPracitce;
 			sourceTree = "<group>";
 		};
+		79A79697285C977E000AE339 /* 6_17 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = 6_17;
+			sourceTree = "<group>";
+		};
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				79A79697285C977E000AE339 /* 6_17 */,
 				7983ED8F28598C6000FBF654 /* 6_15 */,
 				79B3F0A22856EC4D005BA85B /* 6_13 */,
 				794C3C6E28530BEC003A2BE2 /* 6_10 */,
