@@ -37,6 +37,7 @@ let stores = [
      Cart(items: [CartItem(name: "Fish", price: 12.00)])],
     [Cart(items: [CartItem(name: "Apple Airpod", price: 164.50),
                   CartItem(name: "iMac", price: 2302.50)]), Cart(items: [CartItem(name: "iPhone 12", price: 1200.00)])]
+]
 //]
 //
 //print(stores.computeTotal())

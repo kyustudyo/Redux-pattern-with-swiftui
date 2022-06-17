@@ -18,7 +18,7 @@ struct Redux_patternApp: App {
                           middlewares: [logMiddleware(),incrementMiddleware()])
         
         WindowGroup {
-//            ContentView().environmentObject(store)
+            ContentView().environmentObject(store)
 //            transition()
             
         }

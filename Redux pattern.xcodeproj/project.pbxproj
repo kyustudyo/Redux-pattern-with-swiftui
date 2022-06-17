@@ -63,6 +63,26 @@
 		794C3C9C28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C8428530C02003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.02.png */; };
 		794C3C9D28530C03003A2BE2 /* linelimit 1.07.18.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C8528530C03003A2BE2 /* linelimit 1.07.18.png */; };
 		794C3C9E28530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.33.42.png in Resources */ = {isa = PBXBuildFile; fileRef = 794C3C8628530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.33.42.png */; };
+		7983EDA428598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9028598C7000FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png */; };
+		7983EDA528598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9128598C7000FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png */; };
+		7983EDA628598C7300FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9228598C7000FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png */; };
+		7983EDA728598C7300FBF654 /* 스크린샷 2022-06-13 오후 7.31.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9328598C7000FBF654 /* 스크린샷 2022-06-13 오후 7.31.43.png */; };
+		7983EDA828598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.07.52.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9428598C7000FBF654 /* 스크린샷 2022-06-14 오후 9.07.52.png */; };
+		7983EDA928598C7300FBF654 /* 스크린샷 2022-06-15 오전 12.16.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9528598C7100FBF654 /* 스크린샷 2022-06-15 오전 12.16.24.png */; };
+		7983EDAA28598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.03.41.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9628598C7100FBF654 /* 스크린샷 2022-06-14 오후 9.03.41.png */; };
+		7983EDAB28598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.49.42.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9728598C7100FBF654 /* 스크린샷 2022-06-14 오후 8.49.42.png */; };
+		7983EDAC28598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.12.01.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9828598C7100FBF654 /* 스크린샷 2022-06-14 오후 9.12.01.png */; };
+		7983EDAD28598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.31.25.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9928598C7100FBF654 /* 스크린샷 2022-06-13 오후 8.31.25.png */; };
+		7983EDAE28598C7300FBF654 /* 스크린샷 2022-06-15 오전 12.22.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9A28598C7100FBF654 /* 스크린샷 2022-06-15 오전 12.22.33.png */; };
+		7983EDAF28598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.59.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9B28598C7200FBF654 /* 스크린샷 2022-06-14 오후 8.59.33.png */; };
+		7983EDB028598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.05.53.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9C28598C7200FBF654 /* 스크린샷 2022-06-14 오후 9.05.53.png */; };
+		7983EDB128598C7300FBF654 /* sheet _ enum이용 7.25.48.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9D28598C7200FBF654 /* sheet _ enum이용 7.25.48.png */; };
+		7983EDB228598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.31.07.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9E28598C7200FBF654 /* 스크린샷 2022-06-13 오후 8.31.07.png */; };
+		7983EDB328598C7300FBF654 /* 스크린샷 2022-06-14 오전 10.34.55.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9F28598C7200FBF654 /* 스크린샷 2022-06-14 오전 10.34.55.png */; };
+		7983EDB428598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.29.59.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983EDA028598C7200FBF654 /* 스크린샷 2022-06-13 오후 8.29.59.png */; };
+		7983EDB528598C7300FBF654 /* publish _ main async 7.17.05.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983EDA128598C7300FBF654 /* publish _ main async 7.17.05.png */; };
+		7983EDB628598C7300FBF654 /* 스크린샷 2022-06-15 오후 12.21.42.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983EDA228598C7300FBF654 /* 스크린샷 2022-06-15 오후 12.21.42.png */; };
+		7983EDB728598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.47.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983EDA328598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.47.13.png */; };
 		798ECAC8283935A900E1FDB2 /* custom_statusbar12.39.55.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAB4283935A700E1FDB2 /* custom_statusbar12.39.55.png */; };
 		798ECAC9283935A900E1FDB2 /* enum_mutatingᆫ 9.31.39.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAB5283935A800E1FDB2 /* enum_mutatingᆫ 9.31.39.png */; };
 		798ECACA283935A900E1FDB2 /* zstack다음화면예측.54.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAB6283935A800E1FDB2 /* zstack다음화면예측.54.40.png */; };
@@ -243,6 +263,26 @@
 		794C3C8428530C02003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-05 오후 1.15.02.png"; sourceTree = "<group>"; };
 		794C3C8528530C03003A2BE2 /* linelimit 1.07.18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "linelimit 1.07.18.png"; sourceTree = "<group>"; };
 		794C3C8628530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.33.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-06 오후 1.33.42.png"; sourceTree = "<group>"; };
+		7983ED9028598C7000FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 8.20.07.png"; sourceTree = "<group>"; };
+		7983ED9128598C7000FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 11.03.02.png"; sourceTree = "<group>"; };
+		7983ED9228598C7000FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-15 오전 11.22.13.png"; sourceTree = "<group>"; };
+		7983ED9328598C7000FBF654 /* 스크린샷 2022-06-13 오후 7.31.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-13 오후 7.31.43.png"; sourceTree = "<group>"; };
+		7983ED9428598C7000FBF654 /* 스크린샷 2022-06-14 오후 9.07.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 9.07.52.png"; sourceTree = "<group>"; };
+		7983ED9528598C7100FBF654 /* 스크린샷 2022-06-15 오전 12.16.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-15 오전 12.16.24.png"; sourceTree = "<group>"; };
+		7983ED9628598C7100FBF654 /* 스크린샷 2022-06-14 오후 9.03.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 9.03.41.png"; sourceTree = "<group>"; };
+		7983ED9728598C7100FBF654 /* 스크린샷 2022-06-14 오후 8.49.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 8.49.42.png"; sourceTree = "<group>"; };
+		7983ED9828598C7100FBF654 /* 스크린샷 2022-06-14 오후 9.12.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 9.12.01.png"; sourceTree = "<group>"; };
+		7983ED9928598C7100FBF654 /* 스크린샷 2022-06-13 오후 8.31.25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-13 오후 8.31.25.png"; sourceTree = "<group>"; };
+		7983ED9A28598C7100FBF654 /* 스크린샷 2022-06-15 오전 12.22.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-15 오전 12.22.33.png"; sourceTree = "<group>"; };
+		7983ED9B28598C7200FBF654 /* 스크린샷 2022-06-14 오후 8.59.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 8.59.33.png"; sourceTree = "<group>"; };
+		7983ED9C28598C7200FBF654 /* 스크린샷 2022-06-14 오후 9.05.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 9.05.53.png"; sourceTree = "<group>"; };
+		7983ED9D28598C7200FBF654 /* sheet _ enum이용 7.25.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sheet _ enum이용 7.25.48.png"; sourceTree = "<group>"; };
+		7983ED9E28598C7200FBF654 /* 스크린샷 2022-06-13 오후 8.31.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-13 오후 8.31.07.png"; sourceTree = "<group>"; };
+		7983ED9F28598C7200FBF654 /* 스크린샷 2022-06-14 오전 10.34.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오전 10.34.55.png"; sourceTree = "<group>"; };
+		7983EDA028598C7200FBF654 /* 스크린샷 2022-06-13 오후 8.29.59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-13 오후 8.29.59.png"; sourceTree = "<group>"; };
+		7983EDA128598C7300FBF654 /* publish _ main async 7.17.05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "publish _ main async 7.17.05.png"; sourceTree = "<group>"; };
+		7983EDA228598C7300FBF654 /* 스크린샷 2022-06-15 오후 12.21.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-15 오후 12.21.42.png"; sourceTree = "<group>"; };
+		7983EDA328598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.47.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 11.47.13.png"; sourceTree = "<group>"; };
 		798ECAB4283935A700E1FDB2 /* custom_statusbar12.39.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = custom_statusbar12.39.55.png; sourceTree = "<group>"; };
 		798ECAB5283935A800E1FDB2 /* enum_mutatingᆫ 9.31.39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum_mutatingᆫ 9.31.39.png"; sourceTree = "<group>"; };
 		798ECAB6283935A800E1FDB2 /* zstack다음화면예측.54.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zstack다음화면예측.54.40.png"; sourceTree = "<group>"; };
@@ -279,6 +319,7 @@
 		7991F98C2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum_switch_let위치 9.43.49.png"; sourceTree = "<group>"; };
 		7991F98D2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum자신바꾸기둔 9.31.39.png"; sourceTree = "<group>"; };
 		7991F9902843A3D200DCAFB8 /* getset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = getset.png; sourceTree = "<group>"; };
+		79A79696285C7F9B000AE339 /* StructEnum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StructEnum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79AD21472833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0.5초마다계속호출_즉3번problemNumber올라감.png"; sourceTree = "<group>"; };
 		79AD21492833529400F9F3E4 /* enum_nil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum_nil.png; sourceTree = "<group>"; };
 		79AD214D2837CC2E00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "viewmodel과 그 viewmodel들12.41.23.png"; path = "Redux pattern/practice/viewmodel과 그 viewmodel들12.41.23.png"; sourceTree = SOURCE_ROOT; };
@@ -471,6 +512,7 @@
 		791A4B71282F5740008395BF /* practice */ = {
 			isa = PBXGroup;
 			children = (
+				79A79695285C7F83000AE339 /* semiPracitce */,
 				79AD214C2837CC2000F9F3E4 /* screenshot */,
 				791A4B70282F5727008395BF /* kvo.playground */,
 				791A4B6C282E979F008395BF /* Hike.playground */,
@@ -508,6 +550,33 @@
 				794C3C6F28530C00003A2BE2 /* 스크린샷 2022-06-09 오후 11.25.30.png */,
 			);
 			path = 6_10;
+			sourceTree = "<group>";
+		};
+		7983ED8F28598C6000FBF654 /* 6_15 */ = {
+			isa = PBXGroup;
+			children = (
+				7983EDA128598C7300FBF654 /* publish _ main async 7.17.05.png */,
+				7983ED9D28598C7200FBF654 /* sheet _ enum이용 7.25.48.png */,
+				7983ED9328598C7000FBF654 /* 스크린샷 2022-06-13 오후 7.31.43.png */,
+				7983EDA028598C7200FBF654 /* 스크린샷 2022-06-13 오후 8.29.59.png */,
+				7983ED9E28598C7200FBF654 /* 스크린샷 2022-06-13 오후 8.31.07.png */,
+				7983ED9928598C7100FBF654 /* 스크린샷 2022-06-13 오후 8.31.25.png */,
+				7983ED9F28598C7200FBF654 /* 스크린샷 2022-06-14 오전 10.34.55.png */,
+				7983ED9028598C7000FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png */,
+				7983ED9728598C7100FBF654 /* 스크린샷 2022-06-14 오후 8.49.42.png */,
+				7983ED9B28598C7200FBF654 /* 스크린샷 2022-06-14 오후 8.59.33.png */,
+				7983ED9628598C7100FBF654 /* 스크린샷 2022-06-14 오후 9.03.41.png */,
+				7983ED9C28598C7200FBF654 /* 스크린샷 2022-06-14 오후 9.05.53.png */,
+				7983ED9428598C7000FBF654 /* 스크린샷 2022-06-14 오후 9.07.52.png */,
+				7983ED9828598C7100FBF654 /* 스크린샷 2022-06-14 오후 9.12.01.png */,
+				7983ED9128598C7000FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png */,
+				7983EDA328598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.47.13.png */,
+				7983ED9228598C7000FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png */,
+				7983ED9528598C7100FBF654 /* 스크린샷 2022-06-15 오전 12.16.24.png */,
+				7983ED9A28598C7100FBF654 /* 스크린샷 2022-06-15 오전 12.22.33.png */,
+				7983EDA228598C7300FBF654 /* 스크린샷 2022-06-15 오후 12.21.42.png */,
+			);
+			path = 6_15;
 			sourceTree = "<group>";
 		};
 		798ECAB32839359400E1FDB2 /* 5_22 */ = {
@@ -568,9 +637,18 @@
 			path = 5_26;
 			sourceTree = "<group>";
 		};
+		79A79695285C7F83000AE339 /* semiPracitce */ = {
+			isa = PBXGroup;
+			children = (
+				79A79696285C7F9B000AE339 /* StructEnum.playground */,
+			);
+			path = semiPracitce;
+			sourceTree = "<group>";
+		};
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				7983ED8F28598C6000FBF654 /* 6_15 */,
 				79B3F0A22856EC4D005BA85B /* 6_13 */,
 				794C3C6E28530BEC003A2BE2 /* 6_10 */,
 				79BF1783284C5C46003A2A68 /* 6_5 */,
@@ -818,6 +896,7 @@
 				7936114D28573903009A2494 /* foreach 각 요소 버튼으로 만들기 클로저.png in Resources */,
 				79D33C2C283CDC1F002B09BF /* modifiedcontent까지다적을순없으므로12.52.43.png in Resources */,
 				794C3C9828530C03003A2BE2 /* 스크린샷 2022-06-07 오후 3.43.37.png in Resources */,
+				7983EDB228598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.31.07.png in Resources */,
 				798ECACE283935A900E1FDB2 /* navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png in Resources */,
 				79D33C10283CDC1F002B09BF /* frame으로키우기 8.25.08.png in Resources */,
 				7936114128573903009A2494 /* init throw12.57.35.png in Resources */,
@@ -825,6 +904,8 @@
 				79AD21482833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png in Resources */,
 				794C3C8E28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.20.png in Resources */,
 				79AD215E2837CC2F00F9F3E4 /* viewmodifier11.09.41.png in Resources */,
+				7983EDA828598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.07.52.png in Resources */,
+				7983EDA528598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png in Resources */,
 				7936114528573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png in Resources */,
 				79D33C27283CDC1F002B09BF /* default 9.53.49.png in Resources */,
 				79D33C25283CDC1F002B09BF /* stateobject두번째뷰에서10.07.04.png in Resources */,
@@ -849,10 +930,13 @@
 				7936114328573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png in Resources */,
 				794C3C9328530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.39.58.png in Resources */,
 				798ECACD283935A900E1FDB2 /* lazy_If_expensive 9.46.15.png in Resources */,
+				7983EDB028598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.05.53.png in Resources */,
+				7983EDA728598C7300FBF654 /* 스크린샷 2022-06-13 오후 7.31.43.png in Resources */,
 				7936113F28573903009A2494 /* Zstack 5.51.22.png in Resources */,
 				798ECACF283935A900E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png in Resources */,
 				791A4AA8282775D1008395BF /* Preview Assets.xcassets in Resources */,
 				7936114928573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png in Resources */,
+				7983EDB428598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.29.59.png in Resources */,
 				7936114A28573903009A2494 /* 누르면 이거하기10.22.44.png in Resources */,
 				79D33C23283CDC1F002B09BF /* forcolor_backcolor 6.15.36.png in Resources */,
 				798ECAD9283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.27.58.png in Resources */,
@@ -866,6 +950,7 @@
 				79AD21782837E08800F9F3E4 /* padding 8.25.56.png in Resources */,
 				79AD218928385E7B00F9F3E4 /* enum special 12.17.07.png in Resources */,
 				79D33C1F283CDC1F002B09BF /* subscript2 7.49.52.png in Resources */,
+				7983EDAF28598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.59.33.png in Resources */,
 				794C3C9928530C03003A2BE2 /* 스크린샷 2022-06-09 오후 5.40.10.png in Resources */,
 				794C3C8A28530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.26.png in Resources */,
 				79AD21752837E08800F9F3E4 /* color static 8.17.23.png in Resources */,
@@ -877,6 +962,7 @@
 				798ECADD2839383D00E1FDB2 /* singleton 12.09.43.png in Resources */,
 				79D33C34283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png in Resources */,
 				79AD215D2837CC2F00F9F3E4 /* state 9.55.01.png in Resources */,
+				7983EDB128598C7300FBF654 /* sheet _ enum이용 7.25.48.png in Resources */,
 				79AD218828385E7B00F9F3E4 /* func에서 가져오기가능 12.11.50.png in Resources */,
 				79D33C22283CDC1F002B09BF /* subscrip 7.51.04.png in Resources */,
 				79AD21612837CC2F00F9F3E4 /* 배열+=추가가능12.53.37.png in Resources */,
@@ -884,6 +970,7 @@
 				79D33C2B283CDC1F002B09BF /* reduce 9.22.58.png in Resources */,
 				791A4AA5282775D1008395BF /* Assets.xcassets in Resources */,
 				7991F98E2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png in Resources */,
+				7983EDAD28598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.31.25.png in Resources */,
 				79D33C1A283CDC1F002B09BF /* component protocol 9.29.05.png in Resources */,
 				79AD21622837CC2F00F9F3E4 /* background로버튼 바깥색깔 3.39.44.png in Resources */,
 				79AD218C28385E7B00F9F3E4 /* enum_2.17.33.png in Resources */,
@@ -892,6 +979,7 @@
 				79D33C28283CDC1F002B09BF /* background간지12.34.24.png in Resources */,
 				794C3C8B28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 12.53.04.png in Resources */,
 				79AD21592837CC2F00F9F3E4 /* viewmodel init에 바로박기도함12.23.06.png in Resources */,
+				7983EDAC28598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.12.01.png in Resources */,
 				7937EC9C285747150079DB71 /* dispatchqueue 메인 여기서함 7.21.03.png in Resources */,
 				79AD217C2837E08800F9F3E4 /* 흰색으로 할경우 이미지 작아지게할수있다 9.23.51.png in Resources */,
 				7991F9892843A3BF00DCAFB8 /* offset을 저기다하면 모양만 이동한다. button에다가 해야함 3.07.15.png in Resources */,
@@ -907,6 +995,7 @@
 				79D33C14283CDC1F002B09BF /* 간단하게 만들수있지만 느리다 10.50.24.png in Resources */,
 				7937ECA0285749C20079DB71 /* textfield 이용 7.31.43.png in Resources */,
 				7991F9812843A3BF00DCAFB8 /* enum_result 3.29.40.png in Resources */,
+				7983EDAE28598C7300FBF654 /* 스크린샷 2022-06-15 오전 12.22.33.png in Resources */,
 				798ECACB283935A900E1FDB2 /* computedPropertyᆫ 9.46.28.png in Resources */,
 				794C3C9E28530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.33.42.png in Resources */,
 				794C3C9B28530C03003A2BE2 /* Result 8.43.39.png in Resources */,
@@ -914,18 +1003,23 @@
 				7937EC9E285748510079DB71 /* sheet enum 7.25.48.png in Resources */,
 				79AD218A28385E7B00F9F3E4 /* enum 12.15.21.png in Resources */,
 				798ECAD4283935A900E1FDB2 /* progress_bar 11.41.53.png in Resources */,
+				7983EDA628598C7300FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png in Resources */,
 				79AD217F2837E08800F9F3E4 /* view_background.png in Resources */,
 				798ECAD2283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.07.27.png in Resources */,
 				79D33C2D283CDC1F002B09BF /* view로하면안됨12.48.50.png in Resources */,
 				7991F9912843A3D200DCAFB8 /* getset.png in Resources */,
+				7983EDA928598C7300FBF654 /* 스크린샷 2022-06-15 오전 12.16.24.png in Resources */,
 				7991F9862843A3BF00DCAFB8 /* modifier 9.08.26.png in Resources */,
 				79AD217E2837E08800F9F3E4 /* 두가지방법있지만,위에거는 변수없어야하는듯 8.16.58.png in Resources */,
 				791A4B7A2830109C008395BF /* background.png in Resources */,
 				79AD214A2833529400F9F3E4 /* enum_nil.png in Resources */,
+				7983EDB628598C7300FBF654 /* 스크린샷 2022-06-15 오후 12.21.42.png in Resources */,
 				79D33C2A283CDC1F002B09BF /* completion남발_async_await의필요성 5.42.58.png in Resources */,
 				79D33C19283CDC1F002B09BF /* geometryreader.39.55.png in Resources */,
 				79AD21582837CC2F00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png in Resources */,
 				794C3C8F28530C03003A2BE2 /* background10.02.42.png in Resources */,
+				7983EDA428598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png in Resources */,
+				7983EDAB28598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.49.42.png in Resources */,
 				79D33C18283CDC1F002B09BF /* viewbuilder 5.58.26.png in Resources */,
 				794C3C8728530C03003A2BE2 /* 스크린샷 2022-06-09 오후 11.25.30.png in Resources */,
 				79AD218B28385E7B00F9F3E4 /* tuple 12.08.49.png in Resources */,
@@ -939,9 +1033,13 @@
 				798ECAD3283935A900E1FDB2 /* computed_static가능 9.51.27.png in Resources */,
 				7991F98A2843A3BF00DCAFB8 /* padding위험11.45.37.png in Resources */,
 				7936113E28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png in Resources */,
+				7983EDB728598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.47.13.png in Resources */,
 				7991F9842843A3BF00DCAFB8 /* equatable 3.14.35.png in Resources */,
 				7991F9832843A3BF00DCAFB8 /* optional_map 3.01.32.png in Resources */,
+				7983EDAA28598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.03.41.png in Resources */,
 				794C3C9D28530C03003A2BE2 /* linelimit 1.07.18.png in Resources */,
+				7983EDB528598C7300FBF654 /* publish _ main async 7.17.05.png in Resources */,
+				7983EDB328598C7300FBF654 /* 스크린샷 2022-06-14 오전 10.34.55.png in Resources */,
 				7936114628573903009A2494 /* Screen11.18.41.png in Resources */,
 				7991F98F2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png in Resources */,
 			);
