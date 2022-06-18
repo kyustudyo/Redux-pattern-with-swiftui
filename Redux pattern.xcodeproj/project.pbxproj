@@ -25,6 +25,23 @@
 		791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B68282E4602008395BF /* IncrementModdileware.swift */; };
 		791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */; };
 		791A4B7A2830109C008395BF /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 791A4B792830109C008395BF /* background.png */; };
+		792D1FE7285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.58.04.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FDD285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.58.04.png */; };
+		792D1FE8285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.37.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FDE285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.37.15.png */; };
+		792D1FE9285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.40.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FDF285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.40.02.png */; };
+		792D1FEA285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.01.27.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FE0285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.01.27.png */; };
+		792D1FEB285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.42.47.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FE1285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.42.47.png */; };
+		792D1FEC285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.23.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FE2285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.23.png */; };
+		792D1FED285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.45.36.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FE3285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.45.36.png */; };
+		792D1FEE285DA68B00D47503 /* 스크린샷 2022-06-18 오후 2.11.08.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FE4285DA68B00D47503 /* 스크린샷 2022-06-18 오후 2.11.08.png */; };
+		792D1FEF285DA68B00D47503 /* 스크린샷 2022-06-18 오후 12.54.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FE5285DA68B00D47503 /* 스크린샷 2022-06-18 오후 12.54.40.png */; };
+		792D1FF0285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.35.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FE6285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.35.png */; };
+		792D1FF7285DB6F500D47503 /* DependencyInjection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792D1FF6285DB6F500D47503 /* DependencyInjection.swift */; };
+		792D1FFC285DBA5400D47503 /* map(viewmodel.init)12.38.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FF8285DBA5300D47503 /* map(viewmodel.init)12.38.43.png */; };
+		792D1FFD285DBA5400D47503 /* viewmodel init에 바로박기도함12.23.06.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FF9285DBA5300D47503 /* viewmodel init에 바로박기도함12.23.06.png */; };
+		792D1FFE285DBA5400D47503 /* viewmodel과 그 viewmodel들12.41.23.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FFA285DBA5300D47503 /* viewmodel과 그 viewmodel들12.41.23.png */; };
+		792D1FFF285DBA5400D47503 /* init12.24.52.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FFB285DBA5300D47503 /* init12.24.52.png */; };
+		792D2001285DBB5300D47503 /* DependencyInjection2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792D2000285DBB5300D47503 /* DependencyInjection2.swift */; };
+		792D2003285DC28000D47503 /* DependencyInjection3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792D2002285DC28000D47503 /* DependencyInjection3.swift */; };
 		7936113E28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */; };
 		7936113F28573903009A2494 /* Zstack 5.51.22.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112E28573903009A2494 /* Zstack 5.51.22.png */; };
 		7936114028573903009A2494 /* enum12.48.05.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112F28573903009A2494 /* enum12.48.05.png */; };
@@ -92,14 +109,11 @@
 		798ECACE283935A900E1FDB2 /* navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECABA283935A800E1FDB2 /* navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png */; };
 		798ECACF283935A900E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECABB283935A800E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png */; };
 		798ECAD1283935A900E1FDB2 /* zstack12.53.09.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECABD283935A800E1FDB2 /* zstack12.53.09.png */; };
-		798ECAD2283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.07.27.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECABE283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.07.27.png */; };
 		798ECAD3283935A900E1FDB2 /* computed_static가능 9.51.27.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECABF283935A800E1FDB2 /* computed_static가능 9.51.27.png */; };
 		798ECAD4283935A900E1FDB2 /* progress_bar 11.41.53.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAC0283935A800E1FDB2 /* progress_bar 11.41.53.png */; };
 		798ECAD5283935A900E1FDB2 /* ??navigationview안에있는데도 안되네..??? 9.16.16.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAC1283935A800E1FDB2 /* ??navigationview안에있는데도 안되네..??? 9.16.16.png */; };
 		798ECAD6283935A900E1FDB2 /* enum_let앞에서하거나 뒤에서하거나안 9.43.49.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAC2283935A800E1FDB2 /* enum_let앞에서하거나 뒤에서하거나안 9.43.49.png */; };
 		798ECAD7283935A900E1FDB2 /* 그래디언트로 흐리게11.06.28.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAC3283935A800E1FDB2 /* 그래디언트로 흐리게11.06.28.png */; };
-		798ECAD8283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.25.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAC4283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.25.02.png */; };
-		798ECAD9283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.27.58.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAC5283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.27.58.png */; };
 		798ECADA283935A900E1FDB2 /* 점세개 11.35.31.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAC6283935A800E1FDB2 /* 점세개 11.35.31.png */; };
 		798ECADB283935A900E1FDB2 /* 그래디언트 center까지만12.34.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECAC7283935A900E1FDB2 /* 그래디언트 center까지만12.34.24.png */; };
 		798ECADD2839383D00E1FDB2 /* singleton 12.09.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 798ECADC2839383D00E1FDB2 /* singleton 12.09.43.png */; };
@@ -119,6 +133,10 @@
 		7991F98E2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png in Resources */ = {isa = PBXBuildFile; fileRef = 7991F98C2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png */; };
 		7991F98F2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png in Resources */ = {isa = PBXBuildFile; fileRef = 7991F98D2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png */; };
 		7991F9912843A3D200DCAFB8 /* getset.png in Resources */ = {isa = PBXBuildFile; fileRef = 7991F9902843A3D200DCAFB8 /* getset.png */; };
+		799E7211285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 799E720F285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.43.png */; };
+		799E7212285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.17.png in Resources */ = {isa = PBXBuildFile; fileRef = 799E7210285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.17.png */; };
+		799E7215285E2AF4000011C1 /* 스크린샷 2022-06-18 오후 3.53.18.png in Resources */ = {isa = PBXBuildFile; fileRef = 799E7213285E2AF4000011C1 /* 스크린샷 2022-06-18 오후 3.53.18.png */; };
+		799E7216285E2AF4000011C1 /* 스크린샷 2022-06-19 오전 12.26.26.png in Resources */ = {isa = PBXBuildFile; fileRef = 799E7214285E2AF4000011C1 /* 스크린샷 2022-06-19 오전 12.26.26.png */; };
 		79A796A7285C9AD3000AE339 /* frame 10.53.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969A285C9AD3000AE339 /* frame 10.53.15.png */; };
 		79A796A8285C9AD3000AE339 /* frame 11.02.35.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969B285C9AD3000AE339 /* frame 11.02.35.png */; };
 		79A796A9285C9AD3000AE339 /* CustomStringConvertible 6.16.08.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A7969C285C9AD3000AE339 /* CustomStringConvertible 6.16.08.png */; };
@@ -136,13 +154,12 @@
 		79A796BB285CA682000AE339 /* imageModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A796BA285CA682000AE339 /* imageModifier.swift */; };
 		79A796C2285CA95F000AE339 /* ImageStrole.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A796C1285CA95F000AE339 /* ImageStrole.swift */; };
 		79A796CB285CAEAE000AE339 /* edgeInset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A796CA285CAEAE000AE339 /* edgeInset.swift */; };
+		79A796D2285CB12B000AE339 /* 스크린샷 2022-06-17 오후 8.56.23.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796CF285CB12A000AE339 /* 스크린샷 2022-06-17 오후 8.56.23.png */; };
+		79A796D3285CB12B000AE339 /* 스크린샷 2022-06-17 오후 8.57.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796D0285CB12A000AE339 /* 스크린샷 2022-06-17 오후 8.57.15.png */; };
+		79A796D4285CB12B000AE339 /* 스크린샷 2022-06-17 오후 9.16.19.png in Resources */ = {isa = PBXBuildFile; fileRef = 79A796D1285CB12B000AE339 /* 스크린샷 2022-06-17 오후 9.16.19.png */; };
 		79AD21482833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21472833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png */; };
 		79AD214A2833529400F9F3E4 /* enum_nil.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21492833529400F9F3E4 /* enum_nil.png */; };
-		79AD21582837CC2F00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD214D2837CC2E00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png */; };
-		79AD21592837CC2F00F9F3E4 /* viewmodel init에 바로박기도함12.23.06.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD214E2837CC2E00F9F3E4 /* viewmodel init에 바로박기도함12.23.06.png */; };
-		79AD215A2837CC2F00F9F3E4 /* init12.24.52.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD214F2837CC2E00F9F3E4 /* init12.24.52.png */; };
 		79AD215B2837CC2F00F9F3E4 /* background로버튼 바깥색2 3.45.04.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21502837CC2E00F9F3E4 /* background로버튼 바깥색2 3.45.04.png */; };
-		79AD215C2837CC2F00F9F3E4 /* map(viewmodel.init)12.38.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21512837CC2E00F9F3E4 /* map(viewmodel.init)12.38.43.png */; };
 		79AD215D2837CC2F00F9F3E4 /* state 9.55.01.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21522837CC2F00F9F3E4 /* state 9.55.01.png */; };
 		79AD215E2837CC2F00F9F3E4 /* viewmodifier11.09.41.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21532837CC2F00F9F3E4 /* viewmodifier11.09.41.png */; };
 		79AD215F2837CC2F00F9F3E4 /* static func로  5.48.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD21542837CC2F00F9F3E4 /* static func로  5.48.43.png */; };
@@ -164,7 +181,7 @@
 		79AD218928385E7B00F9F3E4 /* enum special 12.17.07.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218228385E7A00F9F3E4 /* enum special 12.17.07.png */; };
 		79AD218A28385E7B00F9F3E4 /* enum 12.15.21.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218328385E7A00F9F3E4 /* enum 12.15.21.png */; };
 		79AD218B28385E7B00F9F3E4 /* tuple 12.08.49.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218428385E7A00F9F3E4 /* tuple 12.08.49.png */; };
-		79AD218C28385E7B00F9F3E4 /* enum_2.17.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218528385E7A00F9F3E4 /* enum_2.17.33.png */; };
+		79AD218C28385E7B00F9F3E4 /* 대소관계_int로받기2.17.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218528385E7A00F9F3E4 /* 대소관계_int로받기2.17.33.png */; };
 		79AD218D28385E7B00F9F3E4 /* enum_general 12.18.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */; };
 		79AD218E28385E7B00F9F3E4 /* customstringconvertible 12.18.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */; };
 		79BF1787284C5C8F003A2A68 /* GemList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1786284C5C8F003A2A68 /* GemList.swift */; };
@@ -239,6 +256,24 @@
 		791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsteadOfIfStatements.swift; sourceTree = "<group>"; };
 		791A4B76282F813D008395BF /* MVVM_whether.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MVVM_whether.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		791A4B792830109C008395BF /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		792D1FDC285D90CF00D47503 /* reatinCycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = reatinCycle.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		792D1FDD285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.58.04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오전 11.58.04.png"; sourceTree = "<group>"; };
+		792D1FDE285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.37.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오전 11.37.15.png"; sourceTree = "<group>"; };
+		792D1FDF285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.40.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오전 11.40.02.png"; sourceTree = "<group>"; };
+		792D1FE0285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.01.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오후 1.01.27.png"; sourceTree = "<group>"; };
+		792D1FE1285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.42.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오전 11.42.47.png"; sourceTree = "<group>"; };
+		792D1FE2285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오후 1.54.23.png"; sourceTree = "<group>"; };
+		792D1FE3285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.45.36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오전 11.45.36.png"; sourceTree = "<group>"; };
+		792D1FE4285DA68B00D47503 /* 스크린샷 2022-06-18 오후 2.11.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오후 2.11.08.png"; sourceTree = "<group>"; };
+		792D1FE5285DA68B00D47503 /* 스크린샷 2022-06-18 오후 12.54.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오후 12.54.40.png"; sourceTree = "<group>"; };
+		792D1FE6285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오후 1.54.35.png"; sourceTree = "<group>"; };
+		792D1FF6285DB6F500D47503 /* DependencyInjection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjection.swift; sourceTree = "<group>"; };
+		792D1FF8285DBA5300D47503 /* map(viewmodel.init)12.38.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "map(viewmodel.init)12.38.43.png"; sourceTree = "<group>"; };
+		792D1FF9285DBA5300D47503 /* viewmodel init에 바로박기도함12.23.06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "viewmodel init에 바로박기도함12.23.06.png"; sourceTree = "<group>"; };
+		792D1FFA285DBA5300D47503 /* viewmodel과 그 viewmodel들12.41.23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "viewmodel과 그 viewmodel들12.41.23.png"; sourceTree = "<group>"; };
+		792D1FFB285DBA5300D47503 /* init12.24.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = init12.24.52.png; sourceTree = "<group>"; };
+		792D2000285DBB5300D47503 /* DependencyInjection2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjection2.swift; sourceTree = "<group>"; };
+		792D2002285DC28000D47503 /* DependencyInjection3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjection3.swift; sourceTree = "<group>"; };
 		7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum에서 switch case로  extension 11.29.12.png"; sourceTree = "<group>"; };
 		7936112E28573903009A2494 /* Zstack 5.51.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Zstack 5.51.22.png"; sourceTree = "<group>"; };
 		7936112F28573903009A2494 /* enum12.48.05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum12.48.05.png; sourceTree = "<group>"; };
@@ -307,14 +342,11 @@
 		798ECABA283935A800E1FDB2 /* navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png"; sourceTree = "<group>"; };
 		798ECABB283935A800E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sorted두번을 한 줄로_그러나 느리다 10.50.24.png"; sourceTree = "<group>"; };
 		798ECABD283935A800E1FDB2 /* zstack12.53.09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zstack12.53.09.png; sourceTree = "<group>"; };
-		798ECABE283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.07.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-05-21 오후 12.07.27.png"; sourceTree = "<group>"; };
 		798ECABF283935A800E1FDB2 /* computed_static가능 9.51.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "computed_static가능 9.51.27.png"; sourceTree = "<group>"; };
 		798ECAC0283935A800E1FDB2 /* progress_bar 11.41.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "progress_bar 11.41.53.png"; sourceTree = "<group>"; };
 		798ECAC1283935A800E1FDB2 /* ??navigationview안에있는데도 안되네..??? 9.16.16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "??navigationview안에있는데도 안되네..??? 9.16.16.png"; sourceTree = "<group>"; };
 		798ECAC2283935A800E1FDB2 /* enum_let앞에서하거나 뒤에서하거나안 9.43.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum_let앞에서하거나 뒤에서하거나안 9.43.49.png"; sourceTree = "<group>"; };
 		798ECAC3283935A800E1FDB2 /* 그래디언트로 흐리게11.06.28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "그래디언트로 흐리게11.06.28.png"; sourceTree = "<group>"; };
-		798ECAC4283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.25.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-05-21 오후 12.25.02.png"; sourceTree = "<group>"; };
-		798ECAC5283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.27.58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-05-21 오후 12.27.58.png"; sourceTree = "<group>"; };
 		798ECAC6283935A800E1FDB2 /* 점세개 11.35.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "점세개 11.35.31.png"; sourceTree = "<group>"; };
 		798ECAC7283935A900E1FDB2 /* 그래디언트 center까지만12.34.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "그래디언트 center까지만12.34.24.png"; sourceTree = "<group>"; };
 		798ECADC2839383D00E1FDB2 /* singleton 12.09.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "singleton 12.09.43.png"; sourceTree = "<group>"; };
@@ -334,6 +366,10 @@
 		7991F98C2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum_switch_let위치 9.43.49.png"; sourceTree = "<group>"; };
 		7991F98D2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum자신바꾸기둔 9.31.39.png"; sourceTree = "<group>"; };
 		7991F9902843A3D200DCAFB8 /* getset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = getset.png; sourceTree = "<group>"; };
+		799E720F285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-19 오전 12.44.43.png"; sourceTree = "<group>"; };
+		799E7210285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-19 오전 12.44.17.png"; sourceTree = "<group>"; };
+		799E7213285E2AF4000011C1 /* 스크린샷 2022-06-18 오후 3.53.18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-18 오후 3.53.18.png"; sourceTree = "<group>"; };
+		799E7214285E2AF4000011C1 /* 스크린샷 2022-06-19 오전 12.26.26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-19 오전 12.26.26.png"; sourceTree = "<group>"; };
 		79A79696285C7F9B000AE339 /* StructEnum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StructEnum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79A7969A285C9AD3000AE339 /* frame 10.53.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame 10.53.15.png"; sourceTree = "<group>"; };
 		79A7969B285C9AD3000AE339 /* frame 11.02.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame 11.02.35.png"; sourceTree = "<group>"; };
@@ -353,13 +389,12 @@
 		79A796C1285CA95F000AE339 /* ImageStrole.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageStrole.swift; sourceTree = "<group>"; };
 		79A796C6285CABF7000AE339 /* enum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = enum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79A796CA285CAEAE000AE339 /* edgeInset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = edgeInset.swift; sourceTree = "<group>"; };
+		79A796CF285CB12A000AE339 /* 스크린샷 2022-06-17 오후 8.56.23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 8.56.23.png"; sourceTree = "<group>"; };
+		79A796D0285CB12A000AE339 /* 스크린샷 2022-06-17 오후 8.57.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 8.57.15.png"; sourceTree = "<group>"; };
+		79A796D1285CB12B000AE339 /* 스크린샷 2022-06-17 오후 9.16.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-17 오후 9.16.19.png"; sourceTree = "<group>"; };
 		79AD21472833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0.5초마다계속호출_즉3번problemNumber올라감.png"; sourceTree = "<group>"; };
 		79AD21492833529400F9F3E4 /* enum_nil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum_nil.png; sourceTree = "<group>"; };
-		79AD214D2837CC2E00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "viewmodel과 그 viewmodel들12.41.23.png"; path = "Redux pattern/practice/Category/ETC/etc/Viewmodel/viewmodel과 그 viewmodel들12.41.23.png"; sourceTree = SOURCE_ROOT; };
-		79AD214E2837CC2E00F9F3E4 /* viewmodel init에 바로박기도함12.23.06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "viewmodel init에 바로박기도함12.23.06.png"; path = "Redux pattern/practice/Category/ETC/etc/Viewmodel/viewmodel init에 바로박기도함12.23.06.png"; sourceTree = SOURCE_ROOT; };
-		79AD214F2837CC2E00F9F3E4 /* init12.24.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = init12.24.52.png; path = "Redux pattern/practice/Category/ETC/etc/Viewmodel/init12.24.52.png"; sourceTree = SOURCE_ROOT; };
 		79AD21502837CC2E00F9F3E4 /* background로버튼 바깥색2 3.45.04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "background로버튼 바깥색2 3.45.04.png"; path = "Redux pattern/practice/Category/Image/background로버튼 바깥색2 3.45.04.png"; sourceTree = SOURCE_ROOT; };
-		79AD21512837CC2E00F9F3E4 /* map(viewmodel.init)12.38.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "map(viewmodel.init)12.38.43.png"; path = "Redux pattern/practice/Category/ETC/etc/Viewmodel/map(viewmodel.init)12.38.43.png"; sourceTree = SOURCE_ROOT; };
 		79AD21522837CC2F00F9F3E4 /* state 9.55.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "state 9.55.01.png"; path = "Redux pattern/practice/Category/legacy/state 9.55.01.png"; sourceTree = SOURCE_ROOT; };
 		79AD21532837CC2F00F9F3E4 /* viewmodifier11.09.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = viewmodifier11.09.41.png; path = "Redux pattern/practice/Category/ETC/etc/viewmodifier11.09.41.png"; sourceTree = SOURCE_ROOT; };
 		79AD21542837CC2F00F9F3E4 /* static func로  5.48.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "static func로  5.48.43.png"; path = "Redux pattern/practice/Category/ETC/etc/static func로  5.48.43.png"; sourceTree = SOURCE_ROOT; };
@@ -382,7 +417,7 @@
 		79AD218228385E7A00F9F3E4 /* enum special 12.17.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum special 12.17.07.png"; sourceTree = "<group>"; };
 		79AD218328385E7A00F9F3E4 /* enum 12.15.21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum 12.15.21.png"; sourceTree = "<group>"; };
 		79AD218428385E7A00F9F3E4 /* tuple 12.08.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tuple 12.08.49.png"; sourceTree = "<group>"; };
-		79AD218528385E7A00F9F3E4 /* enum_2.17.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum_2.17.33.png; sourceTree = "<group>"; };
+		79AD218528385E7A00F9F3E4 /* 대소관계_int로받기2.17.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "대소관계_int로받기2.17.33.png"; sourceTree = "<group>"; };
 		79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum_general 12.18.40.png"; sourceTree = "<group>"; };
 		79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "customstringconvertible 12.18.14.png"; sourceTree = "<group>"; };
 		79B3F0A32856EC59005BA85B /* erro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = erro.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -543,6 +578,8 @@
 		791A4B71282F5740008395BF /* practice */ = {
 			isa = PBXGroup;
 			children = (
+				799E720E285E2AD3000011C1 /* 사용할 코드 */,
+				792D1FF4285DA93200D47503 /* Later */,
 				79A796BC285CA856000AE339 /* Category */,
 				79A796B9285CA500000AE339 /* remind */,
 				79A79695285C7F83000AE339 /* semiPracitce */,
@@ -556,6 +593,64 @@
 				79AD21632837CC4E00F9F3E4 /* escaping_closure.playground */,
 			);
 			path = practice;
+			sourceTree = "<group>";
+		};
+		792D1FDB285D90BB00D47503 /* 6_18 */ = {
+			isa = PBXGroup;
+			children = (
+				792D1FDE285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.37.15.png */,
+				799E7213285E2AF4000011C1 /* 스크린샷 2022-06-18 오후 3.53.18.png */,
+				799E7214285E2AF4000011C1 /* 스크린샷 2022-06-19 오전 12.26.26.png */,
+				792D1FDF285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.40.02.png */,
+				792D1FE1285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.42.47.png */,
+				792D1FE3285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.45.36.png */,
+				792D1FDD285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.58.04.png */,
+				792D1FE0285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.01.27.png */,
+				792D1FE2285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.23.png */,
+				792D1FE6285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.35.png */,
+				792D1FE4285DA68B00D47503 /* 스크린샷 2022-06-18 오후 2.11.08.png */,
+				792D1FE5285DA68B00D47503 /* 스크린샷 2022-06-18 오후 12.54.40.png */,
+				792D1FDC285D90CF00D47503 /* reatinCycle.playground */,
+				792D1FF6285DB6F500D47503 /* DependencyInjection.swift */,
+				792D2000285DBB5300D47503 /* DependencyInjection2.swift */,
+				792D2002285DC28000D47503 /* DependencyInjection3.swift */,
+			);
+			path = 6_18;
+			sourceTree = "<group>";
+		};
+		792D1FF1285DA7C500D47503 /* switchCase */ = {
+			isa = PBXGroup;
+			children = (
+				79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */,
+			);
+			path = switchCase;
+			sourceTree = "<group>";
+		};
+		792D1FF2285DA80B00D47503 /* string */ = {
+			isa = PBXGroup;
+			children = (
+				798ECAB8283935A800E1FDB2 /* replacingOccurance 8.56.50.png */,
+			);
+			path = string;
+			sourceTree = "<group>";
+		};
+		792D1FF3285DA8BE00D47503 /* Property */ = {
+			isa = PBXGroup;
+			children = (
+				798ECABB283935A800E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png */,
+				798ECADC2839383D00E1FDB2 /* singleton 12.09.43.png */,
+				798ECABF283935A800E1FDB2 /* computed_static가능 9.51.27.png */,
+				798ECAB7283935A800E1FDB2 /* computedPropertyᆫ 9.46.28.png */,
+			);
+			path = Property;
+			sourceTree = "<group>";
+		};
+		792D1FF4285DA93200D47503 /* Later */ = {
+			isa = PBXGroup;
+			children = (
+				798ECAC1283935A800E1FDB2 /* ??navigationview안에있는데도 안되네..??? 9.16.16.png */,
+			);
+			path = Later;
 			sourceTree = "<group>";
 		};
 		794C3C6E28530BEC003A2BE2 /* 6_10 */ = {
@@ -615,23 +710,6 @@
 		798ECAB32839359400E1FDB2 /* 5_22 */ = {
 			isa = PBXGroup;
 			children = (
-				798ECAB8283935A800E1FDB2 /* replacingOccurance 8.56.50.png */,
-				798ECAB5283935A800E1FDB2 /* enum_mutatingᆫ 9.31.39.png */,
-				798ECAC2283935A800E1FDB2 /* enum_let앞에서하거나 뒤에서하거나안 9.43.49.png */,
-				798ECAB9283935A800E1FDB2 /* lazy_If_expensive 9.46.15.png */,
-				798ECAB7283935A800E1FDB2 /* computedPropertyᆫ 9.46.28.png */,
-				798ECABF283935A800E1FDB2 /* computed_static가능 9.51.27.png */,
-				798ECADC2839383D00E1FDB2 /* singleton 12.09.43.png */,
-				798ECABB283935A800E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png */,
-				798ECAC6283935A800E1FDB2 /* 점세개 11.35.31.png */,
-				798ECAC0283935A800E1FDB2 /* progress_bar 11.41.53.png */,
-				798ECABA283935A800E1FDB2 /* navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png */,
-				798ECAC1283935A800E1FDB2 /* ??navigationview안에있는데도 안되네..??? 9.16.16.png */,
-				798ECAC3283935A800E1FDB2 /* 그래디언트로 흐리게11.06.28.png */,
-				798ECABE283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.07.27.png */,
-				798ECAC4283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.25.02.png */,
-				798ECAC5283935A800E1FDB2 /* 스크린샷 2022-05-21 오후 12.27.58.png */,
-				798ECAC7283935A900E1FDB2 /* 그래디언트 center까지만12.34.24.png */,
 				798ECAB4283935A700E1FDB2 /* custom_statusbar12.39.55.png */,
 				798ECABD283935A800E1FDB2 /* zstack12.53.09.png */,
 				798ECAB6283935A800E1FDB2 /* zstack다음화면예측.54.40.png */,
@@ -670,6 +748,24 @@
 			path = 5_26;
 			sourceTree = "<group>";
 		};
+		799E720D285E2AA2000011C1 /* View_ */ = {
+			isa = PBXGroup;
+			children = (
+				7936113828573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png */,
+			);
+			path = View_;
+			sourceTree = "<group>";
+		};
+		799E720E285E2AD3000011C1 /* 사용할 코드 */ = {
+			isa = PBXGroup;
+			children = (
+				799E7210285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.17.png */,
+				799E720F285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.43.png */,
+			);
+			name = "사용할 코드";
+			path = "사용할 코드";
+			sourceTree = "<group>";
+		};
 		79A79695285C7F83000AE339 /* semiPracitce */ = {
 			isa = PBXGroup;
 			children = (
@@ -680,6 +776,7 @@
 		79A79697285C977E000AE339 /* 6_17 */ = {
 			isa = PBXGroup;
 			children = (
+				79A796D0285CB12A000AE339 /* 스크린샷 2022-06-17 오후 8.57.15.png */,
 				79A796A5285C9AD3000AE339 /* LazyisMutating11.27.30.png */,
 				79A7969E285C9AD3000AE339 /* Lazy11.33.54.png */,
 				79A7969A285C9AD3000AE339 /* frame 10.53.15.png */,
@@ -707,6 +804,7 @@
 		79A796BC285CA856000AE339 /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				799E720D285E2AA2000011C1 /* View_ */,
 				79A796C8285CADC7000AE339 /* legacy */,
 				79A796C3285CAAF5000AE339 /* ETC */,
 				79A796BF285CA87F000AE339 /* V_H_ZStack */,
@@ -728,6 +826,9 @@
 		79A796BE285CA86A000AE339 /* Image */ = {
 			isa = PBXGroup;
 			children = (
+				798ECAC7283935A900E1FDB2 /* 그래디언트 center까지만12.34.24.png */,
+				798ECAC3283935A800E1FDB2 /* 그래디언트로 흐리게11.06.28.png */,
+				79A796CF285CB12A000AE339 /* 스크린샷 2022-06-17 오후 8.56.23.png */,
 				79A796C9285CAEA0000AE339 /* legacy */,
 				79A796C0285CA932000AE339 /* remind */,
 				79A796B4285C9B5E000AE339 /* image_frame.swift */,
@@ -761,6 +862,10 @@
 		79A796C3285CAAF5000AE339 /* ETC */ = {
 			isa = PBXGroup;
 			children = (
+				792D1FF3285DA8BE00D47503 /* Property */,
+				79A796CE285CB046000AE339 /* Viewmodel */,
+				792D1FF1285DA7C500D47503 /* switchCase */,
+				792D1FF2285DA80B00D47503 /* string */,
 				79A796C7285CAD90000AE339 /* etc */,
 				79A796C5285CABEE000AE339 /* enum */,
 				79A796C4285CABD3000AE339 /* weak */,
@@ -782,7 +887,14 @@
 		79A796C5285CABEE000AE339 /* enum */ = {
 			isa = PBXGroup;
 			children = (
+				798ECAC0283935A800E1FDB2 /* progress_bar 11.41.53.png */,
+				798ECAB5283935A800E1FDB2 /* enum_mutatingᆫ 9.31.39.png */,
+				79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */,
+				79AD218528385E7A00F9F3E4 /* 대소관계_int로받기2.17.33.png */,
+				79AD218328385E7A00F9F3E4 /* enum 12.15.21.png */,
 				79AD21492833529400F9F3E4 /* enum_nil.png */,
+				79AD218228385E7A00F9F3E4 /* enum special 12.17.07.png */,
+				798ECAC2283935A800E1FDB2 /* enum_let앞에서하거나 뒤에서하거나안 9.43.49.png */,
 				79A796C6285CABF7000AE339 /* enum.playground */,
 			);
 			path = enum;
@@ -791,8 +903,12 @@
 		79A796C7285CAD90000AE339 /* etc */ = {
 			isa = PBXGroup;
 			children = (
+				798ECABA283935A800E1FDB2 /* navigationIvew에서다음화면에서 돌아와도 여전히 돌아가고있는것 확인 9.11.24.png */,
+				798ECAC6283935A800E1FDB2 /* 점세개 11.35.31.png */,
+				798ECAB9283935A800E1FDB2 /* lazy_If_expensive 9.46.15.png */,
+				79AD218128385E7A00F9F3E4 /* func에서 가져오기가능 12.11.50.png */,
+				79AD218428385E7A00F9F3E4 /* tuple 12.08.49.png */,
 				79A79696285C7F9B000AE339 /* StructEnum.playground */,
-				79A796CE285CB046000AE339 /* Viewmodel */,
 				79AD21542837CC2F00F9F3E4 /* static func로  5.48.43.png */,
 				79AD21532837CC2F00F9F3E4 /* viewmodifier11.09.41.png */,
 			);
@@ -802,6 +918,7 @@
 		79A796C8285CADC7000AE339 /* legacy */ = {
 			isa = PBXGroup;
 			children = (
+				79A796D1285CB12B000AE339 /* 스크린샷 2022-06-17 오후 9.16.19.png */,
 				7914BD4F2839EA5D0035B5C9 /* SwiftUIView.swift */,
 				79AD21552837CC2F00F9F3E4 /* padding2 3.38.29.png */,
 				79AD21472833529000F9F3E4 /* 0.5초마다계속호출_즉3번problemNumber올라감.png */,
@@ -823,10 +940,10 @@
 		79A796CE285CB046000AE339 /* Viewmodel */ = {
 			isa = PBXGroup;
 			children = (
-				79AD21512837CC2E00F9F3E4 /* map(viewmodel.init)12.38.43.png */,
-				79AD214D2837CC2E00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png */,
-				79AD214E2837CC2E00F9F3E4 /* viewmodel init에 바로박기도함12.23.06.png */,
-				79AD214F2837CC2E00F9F3E4 /* init12.24.52.png */,
+				792D1FFB285DBA5300D47503 /* init12.24.52.png */,
+				792D1FF8285DBA5300D47503 /* map(viewmodel.init)12.38.43.png */,
+				792D1FF9285DBA5300D47503 /* viewmodel init에 바로박기도함12.23.06.png */,
+				792D1FFA285DBA5300D47503 /* viewmodel과 그 viewmodel들12.41.23.png */,
 			);
 			path = Viewmodel;
 			sourceTree = "<group>";
@@ -834,6 +951,7 @@
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				792D1FDB285D90BB00D47503 /* 6_18 */,
 				79A79697285C977E000AE339 /* 6_17 */,
 				7983ED8F28598C6000FBF654 /* 6_15 */,
 				79B3F0A22856EC4D005BA85B /* 6_13 */,
@@ -844,23 +962,8 @@
 				79D33B7F283B7E42002B09BF /* 5_24 */,
 				79D33B7B283A4F6F002B09BF /* 5_23 */,
 				798ECAB32839359400E1FDB2 /* 5_22 */,
-				79AD218028385E6900F9F3E4 /* 5_21 */,
 			);
 			path = screenshot;
-			sourceTree = "<group>";
-		};
-		79AD218028385E6900F9F3E4 /* 5_21 */ = {
-			isa = PBXGroup;
-			children = (
-				79AD218428385E7A00F9F3E4 /* tuple 12.08.49.png */,
-				79AD218128385E7A00F9F3E4 /* func에서 가져오기가능 12.11.50.png */,
-				79AD218328385E7A00F9F3E4 /* enum 12.15.21.png */,
-				79AD218228385E7A00F9F3E4 /* enum special 12.17.07.png */,
-				79AD218528385E7A00F9F3E4 /* enum_2.17.33.png */,
-				79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */,
-				79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */,
-			);
-			path = 5_21;
 			sourceTree = "<group>";
 		};
 		79B3F0A22856EC4D005BA85B /* 6_13 */ = {
@@ -876,7 +979,6 @@
 				7936113528573903009A2494 /* Screen11.18.41.png */,
 				7936113428573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png */,
 				7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */,
-				7936113828573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png */,
 				7936113228573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png */,
 				7937EC9B285747150079DB71 /* dispatchqueue 메인 여기서함 7.21.03.png */,
 				7936113128573903009A2494 /* view if let 4.27.31.png */,
@@ -1068,9 +1170,12 @@
 				7983EDA528598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png in Resources */,
 				7936114528573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png in Resources */,
 				79A796A8285C9AD3000AE339 /* frame 11.02.35.png in Resources */,
+				792D1FFF285DBA5400D47503 /* init12.24.52.png in Resources */,
 				79D33C27283CDC1F002B09BF /* default 9.53.49.png in Resources */,
 				79D33C25283CDC1F002B09BF /* stateobject두번째뷰에서10.07.04.png in Resources */,
 				79D33C20283CDC1F002B09BF /* 점점점 11.35.31.png in Resources */,
+				79A796D3285CB12B000AE339 /* 스크린샷 2022-06-17 오후 8.57.15.png in Resources */,
+				792D1FED285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.45.36.png in Resources */,
 				79D33C13283CDC1F002B09BF /* type property computed property된다돈 9.51.27.png in Resources */,
 				7936114C28573903009A2494 /* Zstack image toptrailing 11.03.18.png in Resources */,
 				794C3C9628530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.44.png in Resources */,
@@ -1078,6 +1183,7 @@
 				7991F9802843A3BF00DCAFB8 /* modifier2 9.10.24.png in Resources */,
 				7991F9822843A3BF00DCAFB8 /* 0.0,0.1,0.key 12.45.10.png in Resources */,
 				798ECAC8283935A900E1FDB2 /* custom_statusbar12.39.55.png in Resources */,
+				792D1FEB285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.42.47.png in Resources */,
 				79A796B2285C9AD3000AE339 /* LazyisMutating11.27.30.png in Resources */,
 				798ECADA283935A900E1FDB2 /* 점세개 11.35.31.png in Resources */,
 				794C3C8828530C03003A2BE2 /* 자체stack 9.11.35.png in Resources */,
@@ -1095,22 +1201,24 @@
 				7936114028573903009A2494 /* enum12.48.05.png in Resources */,
 				7936114328573903009A2494 /* dispatchqueu 메인 여기서안해도댐 4.13.45.png in Resources */,
 				794C3C9328530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.39.58.png in Resources */,
+				792D1FE9285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.40.02.png in Resources */,
 				798ECACD283935A900E1FDB2 /* lazy_If_expensive 9.46.15.png in Resources */,
 				7983EDB028598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.05.53.png in Resources */,
+				799E7215285E2AF4000011C1 /* 스크린샷 2022-06-18 오후 3.53.18.png in Resources */,
 				7983EDA728598C7300FBF654 /* 스크린샷 2022-06-13 오후 7.31.43.png in Resources */,
 				7936113F28573903009A2494 /* Zstack 5.51.22.png in Resources */,
 				798ECACF283935A900E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png in Resources */,
 				791A4AA8282775D1008395BF /* Preview Assets.xcassets in Resources */,
 				7936114928573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png in Resources */,
 				7983EDB428598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.29.59.png in Resources */,
+				792D1FFD285DBA5400D47503 /* viewmodel init에 바로박기도함12.23.06.png in Resources */,
 				7936114A28573903009A2494 /* 누르면 이거하기10.22.44.png in Resources */,
 				79A796AB285C9AD3000AE339 /* Lazy11.33.54.png in Resources */,
 				79D33C23283CDC1F002B09BF /* forcolor_backcolor 6.15.36.png in Resources */,
-				798ECAD9283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.27.58.png in Resources */,
 				794C3C8D28530C03003A2BE2 /* preview_layout 1.01.37.png in Resources */,
-				79AD215A2837CC2F00F9F3E4 /* init12.24.52.png in Resources */,
 				7991F98B2843A3BF00DCAFB8 /* [[Int]](repeating) 1.02.52.png in Resources */,
 				798ECAD1283935A900E1FDB2 /* zstack12.53.09.png in Resources */,
+				799E7216285E2AF4000011C1 /* 스크린샷 2022-06-19 오전 12.26.26.png in Resources */,
 				7991F9872843A3BF00DCAFB8 /* getset12.45.25.png in Resources */,
 				79D33C16283CDC1F002B09BF /* custom_propertywrapper 8.11.11.png in Resources */,
 				79D33B83283BB69A002B09BF /* PetAdoption in Resources */,
@@ -1132,38 +1240,41 @@
 				7983EDB128598C7300FBF654 /* sheet _ enum이용 7.25.48.png in Resources */,
 				79AD218828385E7B00F9F3E4 /* func에서 가져오기가능 12.11.50.png in Resources */,
 				79D33C22283CDC1F002B09BF /* subscrip 7.51.04.png in Resources */,
+				799E7211285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.43.png in Resources */,
 				79AD21612837CC2F00F9F3E4 /* 배열+=추가가능12.53.37.png in Resources */,
 				79AD217A2837E08800F9F3E4 /* weak 없을때 deinit안함 strong이므로0.39.06.png in Resources */,
 				79D33C2B283CDC1F002B09BF /* reduce 9.22.58.png in Resources */,
+				792D1FEF285DA68B00D47503 /* 스크린샷 2022-06-18 오후 12.54.40.png in Resources */,
 				791A4AA5282775D1008395BF /* Assets.xcassets in Resources */,
 				7991F98E2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png in Resources */,
 				7983EDAD28598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.31.25.png in Resources */,
 				79D33C1A283CDC1F002B09BF /* component protocol 9.29.05.png in Resources */,
 				79AD21622837CC2F00F9F3E4 /* background로버튼 바깥색깔 3.39.44.png in Resources */,
-				79AD218C28385E7B00F9F3E4 /* enum_2.17.33.png in Resources */,
+				79AD218C28385E7B00F9F3E4 /* 대소관계_int로받기2.17.33.png in Resources */,
 				7991F9882843A3BF00DCAFB8 /* Array(String)[j] 1.05.11.png in Resources */,
 				79D33C1D283CDC1F002B09BF /* tupleview 1.12.25.png in Resources */,
 				79D33C28283CDC1F002B09BF /* background간지12.34.24.png in Resources */,
 				794C3C8B28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 12.53.04.png in Resources */,
-				79AD21592837CC2F00F9F3E4 /* viewmodel init에 바로박기도함12.23.06.png in Resources */,
 				7983EDAC28598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.12.01.png in Resources */,
 				7937EC9C285747150079DB71 /* dispatchqueue 메인 여기서함 7.21.03.png in Resources */,
+				792D1FFC285DBA5400D47503 /* map(viewmodel.init)12.38.43.png in Resources */,
+				792D1FFE285DBA5400D47503 /* viewmodel과 그 viewmodel들12.41.23.png in Resources */,
 				79AD217C2837E08800F9F3E4 /* 흰색으로 할경우 이미지 작아지게할수있다 9.23.51.png in Resources */,
 				7991F9892843A3BF00DCAFB8 /* offset을 저기다하면 모양만 이동한다. button에다가 해야함 3.07.15.png in Resources */,
 				794C3C9128530C03003A2BE2 /* 스크린샷 2022-06-05 오후 6.55.46.png in Resources */,
 				794C3C9A28530C03003A2BE2 /* 스크린샷 2022-06-08 오후 10.14.46.png in Resources */,
 				798ECAD7283935A900E1FDB2 /* 그래디언트로 흐리게11.06.28.png in Resources */,
 				79AD218E28385E7B00F9F3E4 /* customstringconvertible 12.18.14.png in Resources */,
-				79AD215C2837CC2F00F9F3E4 /* map(viewmodel.init)12.38.43.png in Resources */,
 				79AD21722837E08800F9F3E4 /* zstack썼으므로 아래 패딩줘서 가려지지않도록 9.24.48.png in Resources */,
 				79AD215B2837CC2F00F9F3E4 /* background로버튼 바깥색2 3.45.04.png in Resources */,
+				792D1FE8285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.37.15.png in Resources */,
 				794C3C9428530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.12.19.png in Resources */,
-				798ECAD8283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.25.02.png in Resources */,
 				79A796B1285C9AD3000AE339 /* 괄호이용 11.32.01.png in Resources */,
 				79D33C14283CDC1F002B09BF /* 간단하게 만들수있지만 느리다 10.50.24.png in Resources */,
 				7937ECA0285749C20079DB71 /* textfield 이용 7.31.43.png in Resources */,
 				7991F9812843A3BF00DCAFB8 /* enum_result 3.29.40.png in Resources */,
 				7983EDAE28598C7300FBF654 /* 스크린샷 2022-06-15 오전 12.22.33.png in Resources */,
+				792D1FEC285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.23.png in Resources */,
 				798ECACB283935A900E1FDB2 /* computedPropertyᆫ 9.46.28.png in Resources */,
 				794C3C9E28530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.33.42.png in Resources */,
 				794C3C9B28530C03003A2BE2 /* Result 8.43.39.png in Resources */,
@@ -1173,17 +1284,18 @@
 				798ECAD4283935A900E1FDB2 /* progress_bar 11.41.53.png in Resources */,
 				7983EDA628598C7300FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png in Resources */,
 				79AD217F2837E08800F9F3E4 /* view_background.png in Resources */,
-				798ECAD2283935A900E1FDB2 /* 스크린샷 2022-05-21 오후 12.07.27.png in Resources */,
 				79D33C2D283CDC1F002B09BF /* view로하면안됨12.48.50.png in Resources */,
 				7991F9912843A3D200DCAFB8 /* getset.png in Resources */,
+				79A796D2285CB12B000AE339 /* 스크린샷 2022-06-17 오후 8.56.23.png in Resources */,
+				792D1FEA285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.01.27.png in Resources */,
 				7983EDA928598C7300FBF654 /* 스크린샷 2022-06-15 오전 12.16.24.png in Resources */,
 				7991F9862843A3BF00DCAFB8 /* modifier 9.08.26.png in Resources */,
 				791A4B7A2830109C008395BF /* background.png in Resources */,
 				79AD214A2833529400F9F3E4 /* enum_nil.png in Resources */,
+				792D1FEE285DA68B00D47503 /* 스크린샷 2022-06-18 오후 2.11.08.png in Resources */,
 				7983EDB628598C7300FBF654 /* 스크린샷 2022-06-15 오후 12.21.42.png in Resources */,
 				79D33C2A283CDC1F002B09BF /* completion남발_async_await의필요성 5.42.58.png in Resources */,
 				79D33C19283CDC1F002B09BF /* geometryreader.39.55.png in Resources */,
-				79AD21582837CC2F00F9F3E4 /* viewmodel과 그 viewmodel들12.41.23.png in Resources */,
 				794C3C8F28530C03003A2BE2 /* background10.02.42.png in Resources */,
 				7983EDA428598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png in Resources */,
 				7983EDAB28598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.49.42.png in Resources */,
@@ -1193,16 +1305,20 @@
 				79AD218B28385E7B00F9F3E4 /* tuple 12.08.49.png in Resources */,
 				79AD217D2837E08800F9F3E4 /* image_func.png in Resources */,
 				79AD21732837E08800F9F3E4 /* color간편 8.25.40.png in Resources */,
+				792D1FF0285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.35.png in Resources */,
 				798ECACC283935A900E1FDB2 /* replacingOccurance 8.56.50.png in Resources */,
 				79D33C2E283CDC1F002B09BF /* map_viewmodel 6.13.32.png in Resources */,
+				799E7212285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.17.png in Resources */,
 				79AD215F2837CC2F00F9F3E4 /* static func로  5.48.43.png in Resources */,
 				79D33C24283CDC1F002B09BF /* onappear을 통한 가져오기 9.51.50.png in Resources */,
+				792D1FE7285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.58.04.png in Resources */,
 				798ECACA283935A900E1FDB2 /* zstack다음화면예측.54.40.png in Resources */,
 				798ECAD3283935A900E1FDB2 /* computed_static가능 9.51.27.png in Resources */,
 				79A796AE285C9AD3000AE339 /* GridItem멋있게짓기 10.59.35.png in Resources */,
 				7991F98A2843A3BF00DCAFB8 /* padding위험11.45.37.png in Resources */,
 				7936113E28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png in Resources */,
 				7983EDB728598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.47.13.png in Resources */,
+				79A796D4285CB12B000AE339 /* 스크린샷 2022-06-17 오후 9.16.19.png in Resources */,
 				7991F9842843A3BF00DCAFB8 /* equatable 3.14.35.png in Resources */,
 				7991F9832843A3BF00DCAFB8 /* optional_map 3.01.32.png in Resources */,
 				7983EDAA28598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.03.41.png in Resources */,
@@ -1240,9 +1356,11 @@
 				7914BD502839EA5D0035B5C9 /* SwiftUIView.swift in Sources */,
 				791A4ACD282775F4008395BF /* Store.swift in Sources */,
 				7991F961283E110E00DCAFB8 /* transition.swift in Sources */,
+				792D1FF7285DB6F500D47503 /* DependencyInjection.swift in Sources */,
 				791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */,
 				791A4B122827B89B008395BF /* AddTaskView.swift in Sources */,
 				791A4AA3282775CF008395BF /* ContentView.swift in Sources */,
+				792D2001285DBB5300D47503 /* DependencyInjection2.swift in Sources */,
 				791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */,
 				79A796B5285C9B5E000AE339 /* image_frame.swift in Sources */,
 				79A796CB285CAEAE000AE339 /* edgeInset.swift in Sources */,
@@ -1252,6 +1370,7 @@
 				79A796BB285CA682000AE339 /* imageModifier.swift in Sources */,
 				79A796B7285CA0D7000AE339 /* image_frame2.swift in Sources */,
 				79BF1787284C5C8F003A2A68 /* GemList.swift in Sources */,
+				792D2003285DC28000D47503 /* DependencyInjection3.swift in Sources */,
 				79D33B7E283A5378002B09BF /* viewBuilder.swift in Sources */,
 				791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */,
 				791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */,

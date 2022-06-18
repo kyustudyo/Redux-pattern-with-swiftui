@@ -20,10 +20,17 @@ struct image_frame: View {
                 .border(.red, width: 5)
                 .frame(width: 100, height: 100, alignment: .leading)
                 .border(.yellow, width: 10)
+            
+            //Edge Inset
+            Text("가나다라마바사")
+                .background(.yellow)
+                .padding(EdgeInsets(top: 5, leading: 20, bottom: 40, trailing: 30))
+                .background(.red)
         }
-        .frame(width: 200, height: 300, alignment: .leading)
+        .frame(width: 200, height: 600, alignment: .leading)
         .border(.purple, width: 4)
        
+        
 
             
         
