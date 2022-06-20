@@ -8,3 +8,5 @@ func returnInt()-> some Equatable {
 
 print(returnInt() == returnInt())
 
+
+//https://www.youtube.com/watch?v=C4WQFU7QrmM
