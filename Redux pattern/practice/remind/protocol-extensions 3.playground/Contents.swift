@@ -46,8 +46,8 @@ struct MoneyMarketAccount: Account {
     var balance: Double
     
     func transfer(from: inout Account, to: inout Account, amount: Double) {
-        from.withdraw(amount)
-        to.deposit(amount)
+        from.withdraw(amount+100)
+        to.deposit(amount+55)
     }
     
     
@@ -66,7 +66,7 @@ let checkingAccount = CheckingAccount(balance: 100)
 var account1:Account = MoneyMarketAccount(balance: 100.0)
 var account2:Account = MoneyMarketAccount(balance: 200.0)
 let gi = MoneyMarketAccount(balance: 100.0)
-gi.transfer(from: &account2, to: &account1, amount: 300.0)
+gi.transfer(from: &account2, to: &account1, amount: 55)
 account1.balance
 account2.balance
 //gi.transfer(from: $account1, to: $account2, amount: 300.0)

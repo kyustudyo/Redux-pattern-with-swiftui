@@ -21,6 +21,14 @@ struct image_frame2: View {
                 .resizable()
                 .frame(width: 100, height: 100)
                 .frame(width: 200, alignment: .leading)
+            VStack(alignment:.center) {//현재 있는 프레임을 기준으로.
+                Text("hasdf")
+                    .font(.largeTitle)
+                Text("dfdffddfdfdf")
+                    .font(.title3)
+            }
+            .frame(maxWidth:.infinity, alignment: .leading)//
+            
         }
         
                         
