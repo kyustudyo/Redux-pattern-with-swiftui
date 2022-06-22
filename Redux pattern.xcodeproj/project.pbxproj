@@ -649,6 +649,8 @@
 		792D1FF3285DA8BE00D47503 /* Property */ = {
 			isa = PBXGroup;
 			children = (
+				7991F9902843A3D200DCAFB8 /* getset.png */,
+				7991F97B2843A3BF00DCAFB8 /* getset12.45.25.png */,
 				795C08CA2861BCBC00EB47F0 /* type property computed property된다돈 9.51.27.png */,
 				798ECABB283935A800E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png */,
 				798ECADC2839383D00E1FDB2 /* singleton 12.09.43.png */,
@@ -720,6 +722,7 @@
 		795C08D32861C06C00EB47F0 /* grammar */ = {
 			isa = PBXGroup;
 			children = (
+				7991F98C2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png */,
 				79D33C32283CF95C002B09BF /* getset.playground */,
 				79D33B81283B9EE2002B09BF /* subscripts.playground */,
 				79D33B80283B7E55002B09BF /* associatedtype.playground */,
@@ -797,28 +800,6 @@
 			path = 6_15;
 			sourceTree = "<group>";
 		};
-		7991F9732843A3A700DCAFB8 /* 5_26 */ = {
-			isa = PBXGroup;
-			children = (
-				7991F97A2843A3BF00DCAFB8 /* modifier 9.08.26.png */,
-				7991F9742843A3BF00DCAFB8 /* modifier2 9.10.24.png */,
-				7991F97B2843A3BF00DCAFB8 /* getset12.45.25.png */,
-				7991F9772843A3BF00DCAFB8 /* optional_map 3.01.32.png */,
-				7991F9782843A3BF00DCAFB8 /* equatable 3.14.35.png */,
-				7991F9792843A3BF00DCAFB8 /* 가위바위보comparable 3.26.28.png */,
-				7991F98C2843A3CC00DCAFB8 /* enum_switch_let위치 9.43.49.png */,
-				7991F98D2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png */,
-				7991F9752843A3BF00DCAFB8 /* enum_result 3.29.40.png */,
-				7991F9762843A3BF00DCAFB8 /* 0.0,0.1,0.key 12.45.10.png */,
-				7991F9902843A3D200DCAFB8 /* getset.png */,
-				7991F97E2843A3BF00DCAFB8 /* padding위험11.45.37.png */,
-				7991F97F2843A3BF00DCAFB8 /* [[Int]](repeating) 1.02.52.png */,
-				7991F97C2843A3BF00DCAFB8 /* Array(String)[j] 1.05.11.png */,
-				7991F97D2843A3BF00DCAFB8 /* offset을 저기다하면 모양만 이동한다. button에다가 해야함 3.07.15.png */,
-			);
-			path = 5_26;
-			sourceTree = "<group>";
-		};
 		799E720D285E2AA2000011C1 /* View_ */ = {
 			isa = PBXGroup;
 			children = (
@@ -873,6 +854,7 @@
 		79A796B9285CA500000AE339 /* remind */ = {
 			isa = PBXGroup;
 			children = (
+				7991F9782843A3BF00DCAFB8 /* equatable 3.14.35.png */,
 				795C08E22861C36000EB47F0 /* default 9.53.49.png */,
 				79D33C31283CF75D002B09BF /* protocol-extensions 3.playground */,
 				79AD21632837CC4E00F9F3E4 /* escaping_closure.playground */,
@@ -974,6 +956,9 @@
 		79A796C5285CABEE000AE339 /* enum */ = {
 			isa = PBXGroup;
 			children = (
+				7991F98D2843A3CC00DCAFB8 /* enum자신바꾸기둔 9.31.39.png */,
+				7991F9752843A3BF00DCAFB8 /* enum_result 3.29.40.png */,
+				7991F9792843A3BF00DCAFB8 /* 가위바위보comparable 3.26.28.png */,
 				798ECAC0283935A800E1FDB2 /* progress_bar 11.41.53.png */,
 				798ECAB5283935A800E1FDB2 /* enum_mutatingᆫ 9.31.39.png */,
 				79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */,
@@ -990,6 +975,12 @@
 		79A796C7285CAD90000AE339 /* etc */ = {
 			isa = PBXGroup;
 			children = (
+				7991F9762843A3BF00DCAFB8 /* 0.0,0.1,0.key 12.45.10.png */,
+				7991F97F2843A3BF00DCAFB8 /* [[Int]](repeating) 1.02.52.png */,
+				7991F97C2843A3BF00DCAFB8 /* Array(String)[j] 1.05.11.png */,
+				7991F97D2843A3BF00DCAFB8 /* offset을 저기다하면 모양만 이동한다. button에다가 해야함 3.07.15.png */,
+				7991F97E2843A3BF00DCAFB8 /* padding위험11.45.37.png */,
+				7991F9772843A3BF00DCAFB8 /* optional_map 3.01.32.png */,
 				795C08D22861C03F00EB47F0 /* tupleview 1.12.25.png */,
 				795C08CE2861BCDF00EB47F0 /* 점점점 11.35.31.png */,
 				795C08CD2861BCD600EB47F0 /* 간단하게 만들수있지만 느리다 10.50.24.png */,
@@ -1008,6 +999,8 @@
 		79A796C8285CADC7000AE339 /* legacy */ = {
 			isa = PBXGroup;
 			children = (
+				7991F97A2843A3BF00DCAFB8 /* modifier 9.08.26.png */,
+				7991F9742843A3BF00DCAFB8 /* modifier2 9.10.24.png */,
 				795C08D92861C1DC00EB47F0 /* viewbuilder 5.58.26.png */,
 				795C08D72861C1B700EB47F0 /* view로하면안됨12.48.50.png */,
 				79A796D1285CB12B000AE339 /* 스크린샷 2022-06-17 오후 9.16.19.png */,
@@ -1051,7 +1044,6 @@
 				79B3F0A22856EC4D005BA85B /* 6_13 */,
 				794C3C6E28530BEC003A2BE2 /* 6_10 */,
 				79BF1783284C5C46003A2A68 /* 6_5 */,
-				7991F9732843A3A700DCAFB8 /* 5_26 */,
 			);
 			path = screenshot;
 			sourceTree = "<group>";
