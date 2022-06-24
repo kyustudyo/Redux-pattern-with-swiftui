@@ -60,7 +60,7 @@ let stack = Stack<Int>()
 print("rf")
 //associated type constraints
 protocol Container2 {
-    associatedtype Item: Equatable
+    associatedtype Item: Equatable // @@
     mutating func append(_ item: Item)
     var count: Int { get }
     subscript(i: Int) -> Item { get }
