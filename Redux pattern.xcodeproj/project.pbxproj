@@ -103,6 +103,8 @@
 		797102712864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.23.56.png in Resources */ = {isa = PBXBuildFile; fileRef = 7971026D2864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.23.56.png */; };
 		797102722864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.21.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 7971026E2864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.21.14.png */; };
 		797102B728681A1900B3E1A9 /* Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797102B628681A1900B3E1A9 /* Combine.swift */; };
+		797102BE2868427900B3E1A9 /* TextFieldP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797102BD2868427900B3E1A9 /* TextFieldP.swift */; };
+		797102C02868495C00B3E1A9 /* TextField참고.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797102BF2868495C00B3E1A9 /* TextField참고.swift */; };
 		7983EDA428598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9028598C7000FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png */; };
 		7983EDA528598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9128598C7000FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png */; };
 		7983EDA628598C7300FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9228598C7000FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png */; };
@@ -360,6 +362,8 @@
 		7971027C2865E65B00B3E1A9 /* lazy_property.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lazy_property.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		797102B628681A1900B3E1A9 /* Combine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combine.swift; sourceTree = "<group>"; };
 		797102B92868250A00B3E1A9 /* State_filter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = State_filter.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		797102BD2868427900B3E1A9 /* TextFieldP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldP.swift; sourceTree = "<group>"; };
+		797102BF2868495C00B3E1A9 /* TextField참고.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TextField참고.swift"; sourceTree = "<group>"; };
 		7983ED9028598C7000FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 8.20.07.png"; sourceTree = "<group>"; };
 		7983ED9128598C7000FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 11.03.02.png"; sourceTree = "<group>"; };
 		7983ED9228598C7000FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-15 오전 11.22.13.png"; sourceTree = "<group>"; };
@@ -788,6 +792,8 @@
 			isa = PBXGroup;
 			children = (
 				797102B628681A1900B3E1A9 /* Combine.swift */,
+				797102BD2868427900B3E1A9 /* TextFieldP.swift */,
+				797102BF2868495C00B3E1A9 /* TextField참고.swift */,
 			);
 			path = 6_26;
 			sourceTree = "<group>";
@@ -1428,6 +1434,7 @@
 				7991F961283E110E00DCAFB8 /* transition.swift in Sources */,
 				792D1FF7285DB6F500D47503 /* DependencyInjection.swift in Sources */,
 				795C08C92860646C00EB47F0 /* viewBuilder.swift in Sources */,
+				797102C02868495C00B3E1A9 /* TextField참고.swift in Sources */,
 				791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */,
 				791A4B122827B89B008395BF /* AddTaskView.swift in Sources */,
 				791A4AA3282775CF008395BF /* ContentView.swift in Sources */,
@@ -1436,6 +1443,7 @@
 				79A796B5285C9B5E000AE339 /* image_frame.swift in Sources */,
 				79A796CB285CAEAE000AE339 /* edgeInset.swift in Sources */,
 				791A4B102827B67E008395BF /* TaskReducer.swift in Sources */,
+				797102BE2868427900B3E1A9 /* TextFieldP.swift in Sources */,
 				79A796C2285CA95F000AE339 /* ImageStrole.swift in Sources */,
 				791A4B0C2827B5B9008395BF /* Task.swift in Sources */,
 				79A796BB285CA682000AE339 /* imageModifier.swift in Sources */,
