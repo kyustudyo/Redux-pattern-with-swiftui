@@ -103,6 +103,7 @@
 		797102702864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.22.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 7971026C2864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.22.15.png */; };
 		797102712864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.23.56.png in Resources */ = {isa = PBXBuildFile; fileRef = 7971026D2864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.23.56.png */; };
 		797102722864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.21.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 7971026E2864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.21.14.png */; };
+		797102B728681A1900B3E1A9 /* Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797102B628681A1900B3E1A9 /* Combine.swift */; };
 		7983EDA428598C7300FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9028598C7000FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png */; };
 		7983EDA528598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9128598C7000FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png */; };
 		7983EDA628598C7300FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 7983ED9228598C7000FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png */; };
@@ -359,6 +360,8 @@
 		7971026C2864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.22.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-23 오전 12.22.15.png"; sourceTree = "<group>"; };
 		7971026D2864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.23.56.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-23 오전 12.23.56.png"; sourceTree = "<group>"; };
 		7971026E2864042900B3E1A9 /* 스크린샷 2022-06-23 오전 12.21.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-23 오전 12.21.14.png"; sourceTree = "<group>"; };
+		7971027C2865E65B00B3E1A9 /* lazy_property.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lazy_property.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		797102B628681A1900B3E1A9 /* Combine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combine.swift; sourceTree = "<group>"; };
 		7983ED9028598C7000FBF654 /* 스크린샷 2022-06-14 오후 8.20.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 8.20.07.png"; sourceTree = "<group>"; };
 		7983ED9128598C7000FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-14 오후 11.03.02.png"; sourceTree = "<group>"; };
 		7983ED9228598C7000FBF654 /* 스크린샷 2022-06-15 오전 11.22.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-15 오전 11.22.13.png"; sourceTree = "<group>"; };
@@ -777,6 +780,22 @@
 			path = 6_23;
 			sourceTree = "<group>";
 		};
+		7971027B2865E64A00B3E1A9 /* 6_24 */ = {
+			isa = PBXGroup;
+			children = (
+				7971027C2865E65B00B3E1A9 /* lazy_property.playground */,
+			);
+			path = 6_24;
+			sourceTree = "<group>";
+		};
+		797102B528681A0E00B3E1A9 /* 6_26 */ = {
+			isa = PBXGroup;
+			children = (
+				797102B628681A1900B3E1A9 /* Combine.swift */,
+			);
+			path = 6_26;
+			sourceTree = "<group>";
+		};
 		7983ED8F28598C6000FBF654 /* 6_15 */ = {
 			isa = PBXGroup;
 			children = (
@@ -1052,6 +1071,8 @@
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				797102B528681A0E00B3E1A9 /* 6_26 */,
+				7971027B2865E64A00B3E1A9 /* 6_24 */,
 				7971025E2863668000B3E1A9 /* 6_23 */,
 				795C08E72861C75600EB47F0 /* 6_21 */,
 				795C08B628603EF800EB47F0 /* 6_19 */,
@@ -1417,6 +1438,7 @@
 				79A796B7285CA0D7000AE339 /* image_frame2.swift in Sources */,
 				7971026A2863687500B3E1A9 /* viewbuilder.swift in Sources */,
 				79BF1787284C5C8F003A2A68 /* listView.swift in Sources */,
+				797102B728681A1900B3E1A9 /* Combine.swift in Sources */,
 				792D2003285DC28000D47503 /* DependencyInjection3.swift in Sources */,
 				79D33B7E283A5378002B09BF /* viewBuilder.swift in Sources */,
 				791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */,
