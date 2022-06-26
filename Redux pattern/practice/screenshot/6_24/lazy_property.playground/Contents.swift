@@ -11,7 +11,6 @@ let images = indexes.lazy.filter { index -> Bool in
     print("[Map]")
     return "image_\(index)"
 }
-
 let lastThreeImages = images.suffix(3)
 for img in lastThreeImages {
     print(img)
