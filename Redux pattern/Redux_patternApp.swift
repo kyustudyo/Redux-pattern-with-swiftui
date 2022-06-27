@@ -19,8 +19,8 @@ struct Redux_patternApp: App {
         
         WindowGroup {
 //            ContentView().environmentObject(store)
-//            Combine()
-            TextFieldP()
+            Combine()
+//            TextFieldP()
 //            transition()
             
         }

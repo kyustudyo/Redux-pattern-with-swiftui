@@ -277,6 +277,7 @@
 		792D1FFB285DBA5300D47503 /* init12.24.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = init12.24.52.png; sourceTree = "<group>"; };
 		792D2000285DBB5300D47503 /* DependencyInjection2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjection2.swift; sourceTree = "<group>"; };
 		792D2002285DC28000D47503 /* DependencyInjection3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjection3.swift; sourceTree = "<group>"; };
+		792FD284286971F300D9A3CE /* combine_filterOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = combine_filterOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum에서 switch case로  extension 11.29.12.png"; sourceTree = "<group>"; };
 		7936112E28573903009A2494 /* Zstack 5.51.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Zstack 5.51.22.png"; sourceTree = "<group>"; };
 		7936112F28573903009A2494 /* enum12.48.05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum12.48.05.png; sourceTree = "<group>"; };
@@ -310,6 +311,7 @@
 		794C3C8328530C02003A2BE2 /* Result 8.43.39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Result 8.43.39.png"; sourceTree = "<group>"; };
 		794C3C8428530C02003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-05 오후 1.15.02.png"; sourceTree = "<group>"; };
 		794C3C8528530C03003A2BE2 /* linelimit 1.07.18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "linelimit 1.07.18.png"; sourceTree = "<group>"; };
+		795428FE2869E07500719DA5 /* combine_CombiningOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = combine_CombiningOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		795C08B728603F0300EB47F0 /* 천장에 다았으므로 0 3.24.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "천장에 다았으므로 0 3.24.14.png"; sourceTree = "<group>"; };
 		795C08B828603F0300EB47F0 /* forgroundColor대표로 3.51.06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "forgroundColor대표로 3.51.06.png"; sourceTree = "<group>"; };
 		795C08B928603F0300EB47F0 /* sd 5.33.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sd 5.33.50.png"; sourceTree = "<group>"; };
@@ -679,6 +681,15 @@
 				798ECAC1283935A800E1FDB2 /* ??navigationview안에있는데도 안되네..??? 9.16.16.png */,
 			);
 			path = Later;
+			sourceTree = "<group>";
+		};
+		792FD283286971E300D9A3CE /* 6_27 */ = {
+			isa = PBXGroup;
+			children = (
+				792FD284286971F300D9A3CE /* combine_filterOperator.playground */,
+				795428FE2869E07500719DA5 /* combine_CombiningOperator.playground */,
+			);
+			path = 6_27;
 			sourceTree = "<group>";
 		};
 		795C08B628603EF800EB47F0 /* 6_19 */ = {
@@ -1120,6 +1131,7 @@
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				792FD283286971E300D9A3CE /* 6_27 */,
 				797102B528681A0E00B3E1A9 /* 6_26 */,
 				7971027B2865E64A00B3E1A9 /* 6_24 */,
 				7971025E2863668000B3E1A9 /* 6_23 */,
