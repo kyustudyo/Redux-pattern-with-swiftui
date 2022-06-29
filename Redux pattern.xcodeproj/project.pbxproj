@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		790C48FB286CA2E6001304C6 /* appleMusicAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 790C48FA286CA2E6001304C6 /* appleMusicAPI.swift */; };
 		7914BD502839EA5D0035B5C9 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7914BD4F2839EA5D0035B5C9 /* SwiftUIView.swift */; };
 		791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4AA0282775CF008395BF /* Redux_patternApp.swift */; };
 		791A4AA3282775CF008395BF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4AA2282775CF008395BF /* ContentView.swift */; };
@@ -234,6 +235,7 @@
 
 /* Begin PBXFileReference section */
 		790C48F8286C82B0001304C6 /* combine_sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = combine_sequence.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		790C48FA286CA2E6001304C6 /* appleMusicAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appleMusicAPI.swift; sourceTree = "<group>"; };
 		7914BD4E2839E1EC0035B5C9 /* opaqueType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = opaqueType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7914BD4F2839EA5D0035B5C9 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		791A4A9D282775CF008395BF /* Redux pattern.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Redux pattern.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -511,6 +513,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		790C48F9286CA2D7001304C6 /* 6_28 */ = {
+			isa = PBXGroup;
+			children = (
+				790C48FA286CA2E6001304C6 /* appleMusicAPI.swift */,
+			);
+			path = 6_28;
+			sourceTree = "<group>";
+		};
 		791A4A94282775CF008395BF = {
 			isa = PBXGroup;
 			children = (
@@ -1133,6 +1143,7 @@
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				790C48F9286CA2D7001304C6 /* 6_28 */,
 				792FD283286971E300D9A3CE /* 6_27 */,
 				797102B528681A0E00B3E1A9 /* 6_26 */,
 				7971027B2865E64A00B3E1A9 /* 6_24 */,
@@ -1473,6 +1484,7 @@
 				791A4B0C2827B5B9008395BF /* Task.swift in Sources */,
 				79A796BB285CA682000AE339 /* imageModifier.swift in Sources */,
 				79A796B7285CA0D7000AE339 /* image_frame2.swift in Sources */,
+				790C48FB286CA2E6001304C6 /* appleMusicAPI.swift in Sources */,
 				7971026A2863687500B3E1A9 /* viewbuilder.swift in Sources */,
 				797102CA28686F4100B3E1A9 /* State_Struct_Class.swift in Sources */,
 				79BF1787284C5C8F003A2A68 /* listView.swift in Sources */,
