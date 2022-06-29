@@ -15,9 +15,9 @@ struct SoccerClass {
 let student5 = Student(name: "lee")
 let student2 = Student(name: "kim")
 let soccerClass = SoccerClass(student1: student5, student2: student2)
-//func getStudent1(soccerClass: SoccerClass) -> Student {
-//    return soccerClass.student1
-//}
+func getStudent1(soccerClass: SoccerClass) -> Student {
+    return soccerClass.student1
+}
 func getStudent2(soccerClass: SoccerClass) -> Student {
     return soccerClass.student2
 }

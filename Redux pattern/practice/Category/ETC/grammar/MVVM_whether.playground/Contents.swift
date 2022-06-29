@@ -13,7 +13,6 @@ import SwiftUI
 //    var body: some View {
 //        VStack(alignment: .center) {
 //
-
 //            TextField("Enter city name", text: self.$weatherVM.cityName) {
 //                self.weatherVM.search()
 //            }.font(.custom("Arial", size: 50))
