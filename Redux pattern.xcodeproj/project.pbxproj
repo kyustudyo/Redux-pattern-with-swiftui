@@ -233,6 +233,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		790C48F8286C82B0001304C6 /* combine_sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = combine_sequence.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7914BD4E2839E1EC0035B5C9 /* opaqueType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = opaqueType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7914BD4F2839EA5D0035B5C9 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		791A4A9D282775CF008395BF /* Redux pattern.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Redux pattern.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -688,6 +689,7 @@
 			children = (
 				792FD284286971F300D9A3CE /* combine_filterOperator.playground */,
 				795428FE2869E07500719DA5 /* combine_CombiningOperator.playground */,
+				790C48F8286C82B0001304C6 /* combine_sequence.playground */,
 			);
 			path = 6_27;
 			sourceTree = "<group>";

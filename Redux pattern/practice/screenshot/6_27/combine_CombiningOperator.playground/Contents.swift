@@ -50,7 +50,7 @@ let images = ["1","2","3"]
 var index = 0
 
 func getImage() -> AnyPublisher<UIImage?, Never> {
-    return
+    
     Future<UIImage?, Never> { promise in
         DispatchQueue.global().asyncAfter(deadline: .now() + 3.0) {
             promise(.success(UIImage(named: images[index])))
@@ -65,22 +65,23 @@ func getImage() -> AnyPublisher<UIImage?, Never> {
 let taps = PassthroughSubject<Void, Never>()
 
 let subscription = taps.map { _ in getImage() }
-    .print()
+    .print("1!")
     .switchToLatest().sink {
+        print("2!")
         print($0)
 }
 
-taps.send()
-
-DispatchQueue.main.asyncAfter(deadline: .now() + 6.0) {
-    index += 1
-    taps.send()
-}
-
-DispatchQueue.main.asyncAfter(deadline: .now() + 6.5) {
-    index += 1
-    taps.send()
-}
+//taps.send()
+//
+//DispatchQueue.main.asyncAfter(deadline: .now() + 6.0) {
+//    index += 1
+//    taps.send()
+//}
+//
+//DispatchQueue.main.asyncAfter(deadline: .now() + 6.5) {
+//    index += 1
+//    taps.send()
+//}
 
 
 print("ㅡㅡㅡㅡMergeㅡㅡㅡㅡ")
@@ -111,6 +112,7 @@ publisher10.send(1)
 publisher11.send("a")
 publisher11.send("b")
 publisher11.send("c")//최근것 반영
+publisher10.send(5)
 
 print("ㅡㅡㅡㅡzipㅡㅡㅡㅡ")
 
