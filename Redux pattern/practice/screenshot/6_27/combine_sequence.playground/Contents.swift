@@ -94,5 +94,6 @@ let cancellable = getPosts().sink(receiveCompletion: {_ in} , receiveValue: {
     print("1")
     vm = ViewModel.init(posts: $0)
     print(vm.posts[0])
-})// 변수에 남겨 놔야한다. 아니면 그 scope에 빠져나오면 사라진다.
+})
+// 변수에 남겨 놔야한다. 아니면 그 scope에 빠져나오면 사라진다.
 print("2")

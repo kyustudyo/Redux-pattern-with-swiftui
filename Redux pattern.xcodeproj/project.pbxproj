@@ -24,7 +24,6 @@
 		791A4B122827B89B008395BF /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B112827B89B008395BF /* AddTaskView.swift */; };
 		791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B65282E4537008395BF /* LogMiddleware.swift */; };
 		791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B68282E4602008395BF /* IncrementModdileware.swift */; };
-		791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */; };
 		791A4B7A2830109C008395BF /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 791A4B792830109C008395BF /* background.png */; };
 		792D1FE7285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.58.04.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FDD285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.58.04.png */; };
 		792D1FE8285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.37.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FDE285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.37.15.png */; };
@@ -43,6 +42,24 @@
 		792D1FFF285DBA5400D47503 /* init12.24.52.png in Resources */ = {isa = PBXBuildFile; fileRef = 792D1FFB285DBA5300D47503 /* init12.24.52.png */; };
 		792D2001285DBB5300D47503 /* DependencyInjection2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792D2000285DBB5300D47503 /* DependencyInjection2.swift */; };
 		792D2003285DC28000D47503 /* DependencyInjection3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792D2002285DC28000D47503 /* DependencyInjection3.swift */; };
+		793397E928726664007584EC /* 도메인 디렉토리 8.43.41.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397CA28726663007584EC /* 도메인 디렉토리 8.43.41.png */; };
+		793397EA28726664007584EC /* private 9.02.42.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397CB28726663007584EC /* private 9.02.42.png */; };
+		793397EB28726664007584EC /* struct_state10.13.53.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397CC28726663007584EC /* struct_state10.13.53.png */; };
+		793397ED28726664007584EC /* text 8.48.52.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397CE28726663007584EC /* text 8.48.52.png */; };
+		793397EF28726664007584EC /* textField_onsubbit 9.12.06.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397D028726663007584EC /* textField_onsubbit 9.12.06.png */; };
+		793397F128726664007584EC /* rebase 5.06.56.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397D228726663007584EC /* rebase 5.06.56.png */; };
+		793397F428726664007584EC /* 리뷰 5.19.42.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397D528726663007584EC /* 리뷰 5.19.42.png */; };
+		793397F528726664007584EC /* noti  1.13.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397D628726663007584EC /* noti  1.13.24.png */; };
+		793397F628726664007584EC /* combine 9.12.12.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397D728726663007584EC /* combine 9.12.12.png */; };
+		793397F728726664007584EC /* underline textField 4.21.35.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397D828726663007584EC /* underline textField 4.21.35.png */; };
+		793397F828726664007584EC /* 리뷰 9.01.45.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397D928726663007584EC /* 리뷰 9.01.45.png */; };
+		793397FA28726664007584EC /* http 8.37.59.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397DB28726663007584EC /* http 8.37.59.png */; };
+		793397FB28726664007584EC /* init _ 이렇게 6.56.04.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397DC28726663007584EC /* init _ 이렇게 6.56.04.png */; };
+		7933980428726664007584EC /* struct_state10.16.36.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397E528726664007584EC /* struct_state10.16.36.png */; };
+		7933980528726664007584EC /* observed_heapallocation10.41.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397E628726664007584EC /* observed_heapallocation10.41.54.png */; };
+		7933980628726664007584EC /* compactmap 9.56.51.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397E728726664007584EC /* compactmap 9.56.51.png */; };
+		7933980728726664007584EC /* commitMessage 9.14.03.png in Resources */ = {isa = PBXBuildFile; fileRef = 793397E828726664007584EC /* commitMessage 9.14.03.png */; };
+		7933982B2873242E007584EC /* uiKit Button 실험.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7933982A2873242E007584EC /* uiKit Button 실험.swift */; };
 		7936113E28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */; };
 		7936113F28573903009A2494 /* Zstack 5.51.22.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112E28573903009A2494 /* Zstack 5.51.22.png */; };
 		7936114028573903009A2494 /* enum12.48.05.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936112F28573903009A2494 /* enum12.48.05.png */; };
@@ -82,7 +99,6 @@
 		795C08C128603F0300EB47F0 /* Zstack이용한 음악앱 3.30.55.png in Resources */ = {isa = PBXBuildFile; fileRef = 795C08BB28603F0300EB47F0 /* Zstack이용한 음악앱 3.30.55.png */; };
 		795C08C228603F0300EB47F0 /* geogrpahic을이용한 스크롤 할때 얼마나 스크롤 됐는지 3.24.03.png in Resources */ = {isa = PBXBuildFile; fileRef = 795C08BC28603F0300EB47F0 /* geogrpahic을이용한 스크롤 할때 얼마나 스크롤 됐는지 3.24.03.png */; };
 		795C08C428603F9600EB47F0 /* delegate weak 질문 2.39.28.png in Resources */ = {isa = PBXBuildFile; fileRef = 795C08C328603F9600EB47F0 /* delegate weak 질문 2.39.28.png */; };
-		795C08C92860646C00EB47F0 /* viewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 795C08C82860646C00EB47F0 /* viewBuilder.swift */; };
 		795C08E52861C53300EB47F0 /* 스크린샷 2022-06-21 오후 6.21.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 795C08E42861C53300EB47F0 /* 스크린샷 2022-06-21 오후 6.21.43.png */; };
 		795C08F12861C77200EB47F0 /* 스크린샷 2022-06-19 오후 3.51.06.png in Resources */ = {isa = PBXBuildFile; fileRef = 795C08E82861C77200EB47F0 /* 스크린샷 2022-06-19 오후 3.51.06.png */; };
 		795C08F22861C77200EB47F0 /* 스크린샷 2022-06-19 오후 3.30.55.png in Resources */ = {isa = PBXBuildFile; fileRef = 795C08E92861C77200EB47F0 /* 스크린샷 2022-06-19 오후 3.30.55.png */; };
@@ -212,7 +228,6 @@
 		79AD218D28385E7B00F9F3E4 /* enum_general 12.18.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */; };
 		79AD218E28385E7B00F9F3E4 /* customstringconvertible 12.18.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */; };
 		79BF1787284C5C8F003A2A68 /* listView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1786284C5C8F003A2A68 /* listView.swift */; };
-		79D33B7E283A5378002B09BF /* viewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D33B7D283A5378002B09BF /* viewBuilder.swift */; };
 		79D33C34283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png in Resources */ = {isa = PBXBuildFile; fileRef = 79D33C33283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png */; };
 /* End PBXBuildFile section */
 
@@ -259,7 +274,6 @@
 		791A4B6C282E979F008395BF /* Hike.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Hike.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		791A4B6D282E9F4B008395BF /* State_list.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = State_list.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		791A4B70282F5727008395BF /* kvo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = kvo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsteadOfIfStatements.swift; sourceTree = "<group>"; };
 		791A4B76282F813D008395BF /* MVVM_whether.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MVVM_whether.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		791A4B792830109C008395BF /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 		792D1FDC285D90CF00D47503 /* reatinCycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = reatinCycle.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -281,6 +295,24 @@
 		792D2000285DBB5300D47503 /* DependencyInjection2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjection2.swift; sourceTree = "<group>"; };
 		792D2002285DC28000D47503 /* DependencyInjection3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjection3.swift; sourceTree = "<group>"; };
 		792FD284286971F300D9A3CE /* combine_filterOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = combine_filterOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		793397CA28726663007584EC /* 도메인 디렉토리 8.43.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "도메인 디렉토리 8.43.41.png"; sourceTree = "<group>"; };
+		793397CB28726663007584EC /* private 9.02.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "private 9.02.42.png"; sourceTree = "<group>"; };
+		793397CC28726663007584EC /* struct_state10.13.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = struct_state10.13.53.png; sourceTree = "<group>"; };
+		793397CE28726663007584EC /* text 8.48.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text 8.48.52.png"; sourceTree = "<group>"; };
+		793397D028726663007584EC /* textField_onsubbit 9.12.06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "textField_onsubbit 9.12.06.png"; sourceTree = "<group>"; };
+		793397D228726663007584EC /* rebase 5.06.56.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rebase 5.06.56.png"; sourceTree = "<group>"; };
+		793397D528726663007584EC /* 리뷰 5.19.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "리뷰 5.19.42.png"; sourceTree = "<group>"; };
+		793397D628726663007584EC /* noti  1.13.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "noti  1.13.24.png"; sourceTree = "<group>"; };
+		793397D728726663007584EC /* combine 9.12.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "combine 9.12.12.png"; sourceTree = "<group>"; };
+		793397D828726663007584EC /* underline textField 4.21.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "underline textField 4.21.35.png"; sourceTree = "<group>"; };
+		793397D928726663007584EC /* 리뷰 9.01.45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "리뷰 9.01.45.png"; sourceTree = "<group>"; };
+		793397DB28726663007584EC /* http 8.37.59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "http 8.37.59.png"; sourceTree = "<group>"; };
+		793397DC28726663007584EC /* init _ 이렇게 6.56.04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "init _ 이렇게 6.56.04.png"; sourceTree = "<group>"; };
+		793397E528726664007584EC /* struct_state10.16.36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = struct_state10.16.36.png; sourceTree = "<group>"; };
+		793397E628726664007584EC /* observed_heapallocation10.41.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = observed_heapallocation10.41.54.png; sourceTree = "<group>"; };
+		793397E728726664007584EC /* compactmap 9.56.51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "compactmap 9.56.51.png"; sourceTree = "<group>"; };
+		793397E828726664007584EC /* commitMessage 9.14.03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "commitMessage 9.14.03.png"; sourceTree = "<group>"; };
+		7933982A2873242E007584EC /* uiKit Button 실험.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "uiKit Button 실험.swift"; sourceTree = "<group>"; };
 		7936112D28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "enum에서 switch case로  extension 11.29.12.png"; sourceTree = "<group>"; };
 		7936112E28573903009A2494 /* Zstack 5.51.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Zstack 5.51.22.png"; sourceTree = "<group>"; };
 		7936112F28573903009A2494 /* enum12.48.05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enum12.48.05.png; sourceTree = "<group>"; };
@@ -323,7 +355,6 @@
 		795C08BC28603F0300EB47F0 /* geogrpahic을이용한 스크롤 할때 얼마나 스크롤 됐는지 3.24.03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "geogrpahic을이용한 스크롤 할때 얼마나 스크롤 됐는지 3.24.03.png"; sourceTree = "<group>"; };
 		795C08C328603F9600EB47F0 /* delegate weak 질문 2.39.28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "delegate weak 질문 2.39.28.png"; sourceTree = "<group>"; };
 		795C08C528605EDC00EB47F0 /* propertyWrap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = propertyWrap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		795C08C82860646C00EB47F0 /* viewBuilder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = viewBuilder.swift; sourceTree = "<group>"; };
 		795C08CA2861BCBC00EB47F0 /* type property computed property된다돈 9.51.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "type property computed property된다돈 9.51.27.png"; sourceTree = "<group>"; };
 		795C08CD2861BCD600EB47F0 /* 간단하게 만들수있지만 느리다 10.50.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "간단하게 만들수있지만 느리다 10.50.24.png"; sourceTree = "<group>"; };
 		795C08CE2861BCDF00EB47F0 /* 점점점 11.35.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "점점점 11.35.31.png"; sourceTree = "<group>"; };
@@ -480,7 +511,6 @@
 		79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "customstringconvertible 12.18.14.png"; sourceTree = "<group>"; };
 		79B3F0A32856EC59005BA85B /* erro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = erro.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79BF1786284C5C8F003A2A68 /* listView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = listView.swift; sourceTree = "<group>"; };
-		79D33B7D283A5378002B09BF /* viewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewBuilder.swift; sourceTree = "<group>"; };
 		79D33B80283B7E55002B09BF /* associatedtype.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = associatedtype.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79D33B81283B9EE2002B09BF /* subscripts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = subscripts.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79D33C31283CF75D002B09BF /* protocol-extensions 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "protocol-extensions 3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -704,6 +734,31 @@
 			path = 6_27;
 			sourceTree = "<group>";
 		};
+		793397C928726641007584EC /* 7_4 */ = {
+			isa = PBXGroup;
+			children = (
+				793397CA28726663007584EC /* 도메인 디렉토리 8.43.41.png */,
+				793397CE28726663007584EC /* text 8.48.52.png */,
+				793397D928726663007584EC /* 리뷰 9.01.45.png */,
+				793397CB28726663007584EC /* private 9.02.42.png */,
+				793397D028726663007584EC /* textField_onsubbit 9.12.06.png */,
+				793397E828726664007584EC /* commitMessage 9.14.03.png */,
+				793397CC28726663007584EC /* struct_state10.13.53.png */,
+				793397E528726664007584EC /* struct_state10.16.36.png */,
+				793397E628726664007584EC /* observed_heapallocation10.41.54.png */,
+				793397D628726663007584EC /* noti  1.13.24.png */,
+				793397D828726663007584EC /* underline textField 4.21.35.png */,
+				793397D228726663007584EC /* rebase 5.06.56.png */,
+				793397D528726663007584EC /* 리뷰 5.19.42.png */,
+				793397DC28726663007584EC /* init _ 이렇게 6.56.04.png */,
+				793397D728726663007584EC /* combine 9.12.12.png */,
+				793397DB28726663007584EC /* http 8.37.59.png */,
+				793397E728726664007584EC /* compactmap 9.56.51.png */,
+				7933982A2873242E007584EC /* uiKit Button 실험.swift */,
+			);
+			path = 7_4;
+			sourceTree = "<group>";
+		};
 		795C08B628603EF800EB47F0 /* 6_19 */ = {
 			isa = PBXGroup;
 			children = (
@@ -910,9 +965,6 @@
 				798ECAB4283935A700E1FDB2 /* custom_statusbar_spocitify앱12.39.55.png */,
 				799E7210285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.17.png */,
 				799E720F285E2AE8000011C1 /* 스크린샷 2022-06-19 오전 12.44.43.png */,
-				791A4B74282F61A2008395BF /* InsteadOfIfStatements.swift */,
-				795C08C82860646C00EB47F0 /* viewBuilder.swift */,
-				79D33B7D283A5378002B09BF /* viewBuilder.swift */,
 			);
 			name = "사용할 코드";
 			path = "사용할 코드";
@@ -1143,6 +1195,7 @@
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				793397C928726641007584EC /* 7_4 */,
 				790C48F9286CA2D7001304C6 /* 6_28 */,
 				792FD283286971E300D9A3CE /* 6_27 */,
 				797102B528681A0E00B3E1A9 /* 6_26 */,
@@ -1281,6 +1334,7 @@
 				79710266286366C500B3E1A9 /* 스크린샷 2022-06-22 오후 4.16.32.png in Resources */,
 				795C08F42861C77200EB47F0 /* 스크린샷 2022-06-20 오후 2.57.55.png in Resources */,
 				79AD215E2837CC2F00F9F3E4 /* viewmodifier11.09.41.png in Resources */,
+				793397FA28726664007584EC /* http 8.37.59.png in Resources */,
 				7983EDA828598C7300FBF654 /* 스크린샷 2022-06-14 오후 9.07.52.png in Resources */,
 				7983EDA528598C7300FBF654 /* 스크린샷 2022-06-14 오후 11.03.02.png in Resources */,
 				7936114528573903009A2494 /* textfield viewmodel에 넣는다11.19.28.png in Resources */,
@@ -1290,6 +1344,8 @@
 				792D1FED285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.45.36.png in Resources */,
 				7936114C28573903009A2494 /* Zstack image toptrailing _ 묻히는것11.03.18.png in Resources */,
 				794C3C9628530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.44.png in Resources */,
+				793397EF28726664007584EC /* textField_onsubbit 9.12.06.png in Resources */,
+				793397EB28726664007584EC /* struct_state10.13.53.png in Resources */,
 				79A796AA285C9AD3000AE339 /* ifCaseLet 6.30.16.png in Resources */,
 				7991F9802843A3BF00DCAFB8 /* modifier2 9.10.24.png in Resources */,
 				7991F9822843A3BF00DCAFB8 /* 0.0,0.1,0.key 12.45.10.png in Resources */,
@@ -1326,7 +1382,9 @@
 				7936113F28573903009A2494 /* Zstack 5.51.22.png in Resources */,
 				798ECACF283935A900E1FDB2 /* sorted두번을 한 줄로_그러나 느리다 10.50.24.png in Resources */,
 				795C08F62861C77200EB47F0 /* 스크린샷 2022-06-19 오후 3.24.14.png in Resources */,
+				7933980728726664007584EC /* commitMessage 9.14.03.png in Resources */,
 				79710268286366C500B3E1A9 /* 스크린샷 2022-06-22 오후 4.14.53.png in Resources */,
+				793397ED28726664007584EC /* text 8.48.52.png in Resources */,
 				791A4AA8282775D1008395BF /* Preview Assets.xcassets in Resources */,
 				7936114928573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png in Resources */,
 				7983EDB428598C7300FBF654 /* 스크린샷 2022-06-13 오후 8.29.59.png in Resources */,
@@ -1349,10 +1407,13 @@
 				798ECAD6283935A900E1FDB2 /* enum_let앞에서하거나 뒤에서하거나안 9.43.49.png in Resources */,
 				794C3C9528530C03003A2BE2 /* 스크린샷 2022-06-06 오후 1.04.31.png in Resources */,
 				7936114228573903009A2494 /* view if let 4.27.31.png in Resources */,
+				793397F728726664007584EC /* underline textField 4.21.35.png in Resources */,
 				794C3C9C28530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.02.png in Resources */,
 				79A796AD285C9AD3000AE339 /* protocol extension 2.44.33.png in Resources */,
 				7936114B28573903009A2494 /* Zstack image toptrailing_위치만바꿈11.02.25.png in Resources */,
+				793397E928726664007584EC /* 도메인 디렉토리 8.43.41.png in Resources */,
 				798ECADD2839383D00E1FDB2 /* singleton 12.09.43.png in Resources */,
+				793397F828726664007584EC /* 리뷰 9.01.45.png in Resources */,
 				79D33C34283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png in Resources */,
 				79AD215D2837CC2F00F9F3E4 /* state 9.55.01.png in Resources */,
 				7983EDB128598C7300FBF654 /* sheet _ enum이용 7.25.48.png in Resources */,
@@ -1375,12 +1436,18 @@
 				792D1FFE285DBA5400D47503 /* viewmodel과 그 viewmodel들12.41.23.png in Resources */,
 				79AD217C2837E08800F9F3E4 /* 흰색으로 할경우 이미지 작아지게할수있다 9.23.51.png in Resources */,
 				7991F9892843A3BF00DCAFB8 /* offset을 저기다하면 모양만 이동한다. button에다가 해야함 3.07.15.png in Resources */,
+				793397EA28726664007584EC /* private 9.02.42.png in Resources */,
 				794C3C9128530C03003A2BE2 /* 스크린샷 2022-06-05 오후 6.55.46.png in Resources */,
+				793397F528726664007584EC /* noti  1.13.24.png in Resources */,
+				7933980428726664007584EC /* struct_state10.16.36.png in Resources */,
+				793397FB28726664007584EC /* init _ 이렇게 6.56.04.png in Resources */,
 				798ECAD7283935A900E1FDB2 /* 그래디언트로 흐리게11.06.28.png in Resources */,
+				793397F628726664007584EC /* combine 9.12.12.png in Resources */,
 				79AD218E28385E7B00F9F3E4 /* customstringconvertible 12.18.14.png in Resources */,
 				79AD21722837E08800F9F3E4 /* zstack썼으므로 아래 패딩줘서 가려지지않도록 9.24.48.png in Resources */,
 				79AD215B2837CC2F00F9F3E4 /* background로버튼 바깥색2 3.45.04.png in Resources */,
 				795C08BD28603F0300EB47F0 /* 천장에 다았으므로 0 3.24.14.png in Resources */,
+				7933980528726664007584EC /* observed_heapallocation10.41.54.png in Resources */,
 				792D1FE8285DA68B00D47503 /* 스크린샷 2022-06-18 오전 11.37.15.png in Resources */,
 				794C3C9428530C03003A2BE2 /* 스크린샷 2022-06-05 오후 1.12.19.png in Resources */,
 				79A796B1285C9AD3000AE339 /* 괄호이용 11.32.01.png in Resources */,
@@ -1389,6 +1456,7 @@
 				792D1FEC285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.23.png in Resources */,
 				798ECACB283935A900E1FDB2 /* computedPropertyᆫ 9.46.28.png in Resources */,
 				794C3C9B28530C03003A2BE2 /* Result 8.43.39.png in Resources */,
+				7933980628726664007584EC /* compactmap 9.56.51.png in Resources */,
 				798ECAD5283935A900E1FDB2 /* ??navigationview안에있는데도 안되네..??? 9.16.16.png in Resources */,
 				7937EC9E285748510079DB71 /* sheet enum 7.25.48.png in Resources */,
 				79AD218A28385E7B00F9F3E4 /* enum 12.15.21.png in Resources */,
@@ -1414,6 +1482,7 @@
 				79AD218B28385E7B00F9F3E4 /* tuple 12.08.49.png in Resources */,
 				79AD217D2837E08800F9F3E4 /* image_func.png in Resources */,
 				79AD21732837E08800F9F3E4 /* color간편 8.25.40.png in Resources */,
+				793397F128726664007584EC /* rebase 5.06.56.png in Resources */,
 				795C08C128603F0300EB47F0 /* Zstack이용한 음악앱 3.30.55.png in Resources */,
 				795C08C228603F0300EB47F0 /* geogrpahic을이용한 스크롤 할때 얼마나 스크롤 됐는지 3.24.03.png in Resources */,
 				792D1FF0285DA68B00D47503 /* 스크린샷 2022-06-18 오후 1.54.35.png in Resources */,
@@ -1425,6 +1494,7 @@
 				798ECACA283935A900E1FDB2 /* zstack다음화면예측.54.40.png in Resources */,
 				795C08BF28603F0300EB47F0 /* sd 5.33.50.png in Resources */,
 				798ECAD3283935A900E1FDB2 /* computed_static가능 9.51.27.png in Resources */,
+				793397F428726664007584EC /* 리뷰 5.19.42.png in Resources */,
 				79A796AE285C9AD3000AE339 /* GridItem멋있게짓기 10.59.35.png in Resources */,
 				7991F98A2843A3BF00DCAFB8 /* padding위험11.45.37.png in Resources */,
 				7936113E28573903009A2494 /* enum에서 switch case로  extension 11.29.12.png in Resources */,
@@ -1469,9 +1539,7 @@
 				791A4ACD282775F4008395BF /* Store.swift in Sources */,
 				7991F961283E110E00DCAFB8 /* transition.swift in Sources */,
 				792D1FF7285DB6F500D47503 /* DependencyInjection.swift in Sources */,
-				795C08C92860646C00EB47F0 /* viewBuilder.swift in Sources */,
 				797102C02868495C00B3E1A9 /* TextField참고.swift in Sources */,
-				791A4B75282F61A3008395BF /* InsteadOfIfStatements.swift in Sources */,
 				791A4B122827B89B008395BF /* AddTaskView.swift in Sources */,
 				791A4AA3282775CF008395BF /* ContentView.swift in Sources */,
 				792D2001285DBB5300D47503 /* DependencyInjection2.swift in Sources */,
@@ -1490,7 +1558,7 @@
 				79BF1787284C5C8F003A2A68 /* listView.swift in Sources */,
 				797102B728681A1900B3E1A9 /* Combine.swift in Sources */,
 				792D2003285DC28000D47503 /* DependencyInjection3.swift in Sources */,
-				79D33B7E283A5378002B09BF /* viewBuilder.swift in Sources */,
+				7933982B2873242E007584EC /* uiKit Button 실험.swift in Sources */,
 				791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */,
 				791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */,
 			);
