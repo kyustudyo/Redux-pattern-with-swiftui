@@ -444,6 +444,7 @@
 		797102BD2868427900B3E1A9 /* TextFieldP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldP.swift; sourceTree = "<group>"; };
 		797102BF2868495C00B3E1A9 /* TextField참고.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TextField참고.swift"; sourceTree = "<group>"; };
 		797102C928686F4100B3E1A9 /* State_Struct_Class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State_Struct_Class.swift; sourceTree = "<group>"; };
+		797960E328788ADB00F8C208 /* test.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = test.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7983ED9028598C7000FBF654 /* textField test 8.20.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "textField test 8.20.07.png"; sourceTree = "<group>"; };
 		7983ED9128598C7000FBF654 /* ani11.03.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ani11.03.02.png; sourceTree = "<group>"; };
 		7983ED9328598C7000FBF654 /* 스크린샷 2022-06-13 오후 7.31.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-13 오후 7.31.43.png"; sourceTree = "<group>"; };
@@ -889,6 +890,7 @@
 		795C08D32861C06C00EB47F0 /* grammar */ = {
 			isa = PBXGroup;
 			children = (
+				7971027C2865E65B00B3E1A9 /* lazy_property.playground */,
 				79B3F0A32856EC59005BA85B /* erro.playground */,
 				7936113028573903009A2494 /* init throw12.57.35.png */,
 				791A4B76282F813D008395BF /* MVVM_whether.playground */,
@@ -964,19 +966,9 @@
 			path = 6_23;
 			sourceTree = "<group>";
 		};
-		7971027B2865E64A00B3E1A9 /* 6_24 */ = {
-			isa = PBXGroup;
-			children = (
-				7971027C2865E65B00B3E1A9 /* lazy_property.playground */,
-			);
-			path = 6_24;
-			sourceTree = "<group>";
-		};
 		797102B528681A0E00B3E1A9 /* 6_26 */ = {
 			isa = PBXGroup;
 			children = (
-				797102B628681A1900B3E1A9 /* Combine.swift */,
-				797102BD2868427900B3E1A9 /* TextFieldP.swift */,
 				797102BF2868495C00B3E1A9 /* TextField참고.swift */,
 			);
 			path = 6_26;
@@ -1017,6 +1009,14 @@
 				797102C928686F4100B3E1A9 /* State_Struct_Class.swift */,
 			);
 			path = State_Binding_Observable;
+			sourceTree = "<group>";
+		};
+		797960E228788AD000F8C208 /* 7_9 */ = {
+			isa = PBXGroup;
+			children = (
+				797960E328788ADB00F8C208 /* test.playground */,
+			);
+			path = 7_9;
 			sourceTree = "<group>";
 		};
 		7983ED8F28598C6000FBF654 /* 6_15 */ = {
@@ -1069,6 +1069,7 @@
 		79860235287822F100C749B4 /* combine */ = {
 			isa = PBXGroup;
 			children = (
+				797102B628681A1900B3E1A9 /* Combine.swift */,
 				79860227287820EB00C749B4 /* combine으로 할 경우 Resource구조체에 parse 가 필요없다 5.15.35.png */,
 				79860222287820EB00C749B4 /* 일반 map은 element 가져오는데 combine은 data 3.56.45.png */,
 				79860220287820EB00C749B4 /* combine시 data에 있는 프로퍼티 선택가능 여기서는 main 5.07.07.png */,
@@ -1104,6 +1105,7 @@
 		799E720E285E2AD3000011C1 /* 사용할 코드 */ = {
 			isa = PBXGroup;
 			children = (
+				797102BD2868427900B3E1A9 /* TextFieldP.swift */,
 				794C3C8028530C02003A2BE2 /* 스크린샷 2022-06-07 오후 3.43.37.png */,
 				797102B92868250A00B3E1A9 /* State_filter.playground */,
 				794C3C7628530C01003A2BE2 /* 스크린샷 2022-06-05 오후 1.15.20.png */,
@@ -1345,6 +1347,7 @@
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				797960E228788AD000F8C208 /* 7_9 */,
 				798602162877FEB200C749B4 /* 7_8 */,
 				7949F5DD2876727300AAEFD4 /* 7_7 */,
 				793E397628734ADC003F7AF8 /* 7_5 */,
@@ -1352,7 +1355,6 @@
 				790C48F9286CA2D7001304C6 /* 6_28 */,
 				792FD283286971E300D9A3CE /* 6_27 */,
 				797102B528681A0E00B3E1A9 /* 6_26 */,
-				7971027B2865E64A00B3E1A9 /* 6_24 */,
 				7971025E2863668000B3E1A9 /* 6_23 */,
 				795C08E72861C75600EB47F0 /* 6_21 */,
 				795C08B628603EF800EB47F0 /* 6_19 */,
