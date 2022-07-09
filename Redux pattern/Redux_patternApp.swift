@@ -20,7 +20,8 @@ struct Redux_patternApp: App {
         WindowGroup {
 //            ContentView().environmentObject(store)
 //            Combine()
-            MusicAPIView()
+//            MusicAPIView()
+            buttons()
 //            TextFieldP()
 //            transition()
             

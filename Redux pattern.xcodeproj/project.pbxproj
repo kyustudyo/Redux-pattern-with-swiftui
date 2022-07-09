@@ -253,7 +253,11 @@
 		79AD218D28385E7B00F9F3E4 /* enum_general 12.18.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218628385E7A00F9F3E4 /* enum_general 12.18.40.png */; };
 		79AD218E28385E7B00F9F3E4 /* customstringconvertible 12.18.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */; };
 		79BF1787284C5C8F003A2A68 /* listView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1786284C5C8F003A2A68 /* listView.swift */; };
+		79C7BEF22879AABF00A3AA85 /* 스크린샷 2022-07-09 오후 9.20.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 79C7BEF12879AABF00A3AA85 /* 스크린샷 2022-07-09 오후 9.20.54.png */; };
+		79C7BEF42879ABF100A3AA85 /* 스크린샷 2022-07-09 오후 9.28.20.png in Resources */ = {isa = PBXBuildFile; fileRef = 79C7BEF32879ABF100A3AA85 /* 스크린샷 2022-07-09 오후 9.28.20.png */; };
 		79D33C34283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png in Resources */ = {isa = PBXBuildFile; fileRef = 79D33C33283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png */; };
+		79D7492D2879329D0098AEC6 /* buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D7492C2879329D0098AEC6 /* buttons.swift */; };
+		79D7492F28793E230098AEC6 /* tapButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D7492E28793E230098AEC6 /* tapButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -445,6 +449,7 @@
 		797102BF2868495C00B3E1A9 /* TextField참고.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TextField참고.swift"; sourceTree = "<group>"; };
 		797102C928686F4100B3E1A9 /* State_Struct_Class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State_Struct_Class.swift; sourceTree = "<group>"; };
 		797960E328788ADB00F8C208 /* test.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = test.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		797E3E2A2879980B00468FCC /* map_flatMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = map_flatMap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7983ED9028598C7000FBF654 /* textField test 8.20.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "textField test 8.20.07.png"; sourceTree = "<group>"; };
 		7983ED9128598C7000FBF654 /* ani11.03.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ani11.03.02.png; sourceTree = "<group>"; };
 		7983ED9328598C7000FBF654 /* 스크린샷 2022-06-13 오후 7.31.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-06-13 오후 7.31.43.png"; sourceTree = "<group>"; };
@@ -569,11 +574,15 @@
 		79AD218728385E7B00F9F3E4 /* customstringconvertible 12.18.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "customstringconvertible 12.18.14.png"; sourceTree = "<group>"; };
 		79B3F0A32856EC59005BA85B /* erro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = erro.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79BF1786284C5C8F003A2A68 /* listView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = listView.swift; sourceTree = "<group>"; };
+		79C7BEF12879AABF00A3AA85 /* 스크린샷 2022-07-09 오후 9.20.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-07-09 오후 9.20.54.png"; sourceTree = "<group>"; };
+		79C7BEF32879ABF100A3AA85 /* 스크린샷 2022-07-09 오후 9.28.20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-07-09 오후 9.28.20.png"; sourceTree = "<group>"; };
 		79D33B80283B7E55002B09BF /* associatedtype.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = associatedtype.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79D33B81283B9EE2002B09BF /* subscripts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = subscripts.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79D33C31283CF75D002B09BF /* protocol-extensions 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "protocol-extensions 3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79D33C32283CF95C002B09BF /* getset.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = getset.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		79D33C33283CFA2B002B09BF /* set을 통한 struct 내부 property변겅 8.33.56.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "set을 통한 struct 내부 property변겅 8.33.56.png"; sourceTree = "<group>"; };
+		79D7492C2879329D0098AEC6 /* buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttons.swift; sourceTree = "<group>"; };
+		79D7492E28793E230098AEC6 /* tapButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tapButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1014,7 +1023,12 @@
 		797960E228788AD000F8C208 /* 7_9 */ = {
 			isa = PBXGroup;
 			children = (
+				79C7BEF32879ABF100A3AA85 /* 스크린샷 2022-07-09 오후 9.28.20.png */,
 				797960E328788ADB00F8C208 /* test.playground */,
+				79D7492C2879329D0098AEC6 /* buttons.swift */,
+				79D7492E28793E230098AEC6 /* tapButton.swift */,
+				79C7BEF12879AABF00A3AA85 /* 스크린샷 2022-07-09 오후 9.20.54.png */,
+				797E3E2A2879980B00468FCC /* map_flatMap.playground */,
 			);
 			path = 7_9;
 			sourceTree = "<group>";
@@ -1549,6 +1563,7 @@
 				7936114928573903009A2494 /* navigationview 신박하게 붙히기11.31.56.png in Resources */,
 				7983EDB428598C7300FBF654 /* phone 8.29.59.png in Resources */,
 				792D1FFD285DBA5400D47503 /* viewmodel init에 바로박기도함12.23.06.png in Resources */,
+				79C7BEF22879AABF00A3AA85 /* 스크린샷 2022-07-09 오후 9.20.54.png in Resources */,
 				7936114A28573903009A2494 /* 누르면 이거하기10.22.44.png in Resources */,
 				795C08F52861C77200EB47F0 /* 스크린샷 2022-06-19 오후 5.54.42.png in Resources */,
 				79A796AB285C9AD3000AE339 /* Lazy11.33.54.png in Resources */,
@@ -1599,6 +1614,7 @@
 				7991F9892843A3BF00DCAFB8 /* offset을 저기다하면 모양만 이동한다. button에다가 해야함 3.07.15.png in Resources */,
 				793397EA28726664007584EC /* private 9.02.42.png in Resources */,
 				794C3C9128530C03003A2BE2 /* 스크린샷 2022-06-05 오후 6.55.46.png in Resources */,
+				79C7BEF42879ABF100A3AA85 /* 스크린샷 2022-07-09 오후 9.28.20.png in Resources */,
 				793397F528726664007584EC /* noti  1.13.24.png in Resources */,
 				7933980428726664007584EC /* struct_state10.16.36.png in Resources */,
 				793397FB28726664007584EC /* init _ 이렇게 6.56.04.png in Resources */,
@@ -1716,6 +1732,7 @@
 				791A4B69282E4602008395BF /* IncrementModdileware.swift in Sources */,
 				793E399428734B26003F7AF8 /* Animation4.swift in Sources */,
 				793E397E28734AFE003F7AF8 /* geometryReader_card.swift in Sources */,
+				79D7492D2879329D0098AEC6 /* buttons.swift in Sources */,
 				793E398728734B13003F7AF8 /* rowView.swift in Sources */,
 				79A796B5285C9B5E000AE339 /* image_frame.swift in Sources */,
 				79A796CB285CAEAE000AE339 /* edgeInset.swift in Sources */,
@@ -1741,6 +1758,7 @@
 				7933982B2873242E007584EC /* uiKit Button 실험.swift in Sources */,
 				791A4AA1282775CF008395BF /* Redux_patternApp.swift in Sources */,
 				791A4B66282E4537008395BF /* LogMiddleware.swift in Sources */,
+				79D7492F28793E230098AEC6 /* tapButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

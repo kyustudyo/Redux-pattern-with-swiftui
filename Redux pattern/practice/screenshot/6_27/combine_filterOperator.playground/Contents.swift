@@ -9,7 +9,7 @@ import Combine
 let formatter = NumberFormatter()
 formatter.numberStyle = .spellOut
 
-[123,456].publisher.map {
+[123,456].publisher.map {//필요한 내용을 가져가기 위해 map
     formatter.string(from: NSNumber(integerLiteral: $0)) ?? ""
 }.sink {
     print($0)
@@ -47,26 +47,41 @@ struct School {
 }
 
 let citySchool = School(name: "Fo Head School", noOfStudents: 100)
-
+let citySchool2 = School(name: "Fo Head School", noOfStudents: 95)
 let school = CurrentValueSubject<School, Never>(citySchool)
 
-school.sink {
-    print($0)
+//school.sink {
+//    print($0)
+//}
+print("map")
+//school.value = citySchool2
+//school.value = citySchool
+school.map {
+    $0.noOfStudents
+}.sink {
+    print("바뀐다 - \($0)")
 }
-
 //내부 값
+print("flat map")
 school.flatMap {
-                    $0.noOfStudents
+    //noOfStudents의 내부값 변화시켜도 된다.
+    $0.noOfStudents
             }
             .sink {
-                print($0)
+                print("숫자 바꾼다\($0)")
+                
             }
 
 let townSchool = School(name: "TTTT", noOfStudents: 45)
+let citiciSchool = School(name: "asdvasd", noOfStudents: 99)
 
 school.value = townSchool
+school.value = citiciSchool
 
-citySchool.noOfStudents.value += 1 // flatMap 하지 않으면 여기서 fire 하지 않음.
+school.value.noOfStudents.value += 1
+
+citySchool.noOfStudents.value += 1
+// flatMap 하지 않으면 여기서 fire 하지 않음.
 
 print("replace nil")
 
@@ -78,9 +93,12 @@ print("replace nil")
 // optional 빼고싶을 때
 ["A", "B", nil, "D"].publisher
     .replaceNil(with: "*")
-    .compactMap {
+    .compactMap {//replacenill하면 optional없으므로 compactmap 쓰자
         $0
     }
+//    .map{
+//        $0
+//    }
     .sink {
     print($0)
 }
