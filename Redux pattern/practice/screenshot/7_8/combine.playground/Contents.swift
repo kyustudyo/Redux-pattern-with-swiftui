@@ -8,12 +8,14 @@ import Combine
 guard let url = URL(string: "https://jsonplaceholder.typicode.com/posts") else {
     fatalError("url ;;")
 }
+var bag = Set<AnyCancellable>()
 let request = URLSession.shared.dataTaskPublisher(for: url).map{$0.data}.print("A")
 let subscription1 = request.sink { _ in
     
 } receiveValue: {
     print("a", $0)
 }
+//    .store(in: &bag)
 
 let subscription2 = request.sink { _ in
     

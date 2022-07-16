@@ -2,6 +2,34 @@ import UIKit
 import Combine
 
 let intArray = [1,3,8,22].publisher
+
+[1,2,3].publisher.sink { int in//int 아래와 다르다
+    print(int)
+}
+
+var abcd = [1,2,3,4].publisher
+abcd
+    .sink { int in//let int: Publishers.Sequence<[Int], Never>.Output
+        print(int)
+    }
+
+func getPublisher(ints: [Int]) -> AnyPublisher<Character, Never> {
+    return "String()"
+        .publisher
+        .eraseToAnyPublisher()
+}
+// publisher에 publisher 씌우면 flatmap
+//abcd.map { int in
+//    getPublisher(ints: [int,int])
+//}.sink { <#AnyPublisher<Character, Never>#> in
+//
+//}
+//abcd.flatMap { int in
+//    getPublisher(ints: [int])
+//}.sink { <#Character#> in
+//    <#code#>
+//}
+
 intArray
     .min()
     .sink {
