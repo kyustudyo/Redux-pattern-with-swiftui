@@ -21,7 +21,9 @@ struct Redux_patternApp: App {
 //            ContentView().environmentObject(store)
 //            Combine()
 //            MusicAPIView()
-            buttons()
+//            buttons()
+//            geometryReader_card()
+//            ViewController()
 //            TextFieldP()
 //            transition()
             

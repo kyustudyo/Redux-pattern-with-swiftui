@@ -8,13 +8,16 @@
 import SwiftUI
 
 struct geometryReader_card: View {
+    
     func getPercentage(geo:  GeometryProxy) -> Double {
         let maxDistance = UIScreen.main.bounds.width / 2
         let currentX = geo.frame(in: .global).midX
+        print("max: \(maxDistance)")
         print("midx: \(currentX)")
         print(Double(1 - (currentX / maxDistance)) * 40)
         return Double(1 - (currentX / maxDistance))
     }
+    
     var body: some View {
         ScrollView(.horizontal) {
             HStack {
