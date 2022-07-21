@@ -2,7 +2,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView13: View {
     
     @State private var isPresented:Bool = false
     @EnvironmentObject var store: Store<AppState>
@@ -66,10 +66,10 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct ContentView13_Previews: PreviewProvider {
     static var previews: some View {
         
         let store = Store(reducer: appReducer, state: AppState())
-        return ContentView().environmentObject(store)
+        return ContentView13().environmentObject(store)
     }
 }

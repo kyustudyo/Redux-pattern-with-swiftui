@@ -41,7 +41,6 @@ struct TextFieldP: View {
                  checkHandler?(inputString.wrappedValue)
                  //optional이면 escaping 안해도된다.
              }
-             
         }
 }
 
