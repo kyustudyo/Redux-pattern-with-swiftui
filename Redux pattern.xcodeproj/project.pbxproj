@@ -299,6 +299,7 @@
 		79D7492F28793E230098AEC6 /* tapButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D7492E28793E230098AEC6 /* tapButton.swift */; };
 		79D821DC287D800A00A9A02C /* buttonss.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D821DB287D800A00A9A02C /* buttonss.swift */; };
 		79D821E0287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 79D821DE287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png */; };
+		79E659C8288FBAE200FD54B6 /* justforPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E659C7288FBAE200FD54B6 /* justforPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -667,6 +668,7 @@
 		79D7492E28793E230098AEC6 /* tapButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tapButton.swift; sourceTree = "<group>"; };
 		79D821DB287D800A00A9A02C /* buttonss.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonss.swift; sourceTree = "<group>"; };
 		79D821DE287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "스크린샷 2022-07-09 오후 9.20.54.png"; path = "Redux pattern/practice/screenshot/7_9/스크린샷 2022-07-09 오후 9.20.54.png"; sourceTree = SOURCE_ROOT; };
+		79E659C7288FBAE200FD54B6 /* justforPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = justforPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -917,6 +919,7 @@
 			isa = PBXGroup;
 			children = (
 				79318C97287E4493003B27D9 /* 스크린샷 2022-07-12 오후 5.49.35.png */,
+				79E659C7288FBAE200FD54B6 /* justforPractice.swift */,
 			);
 			name = "이번앱";
 			path = "이번앱";
@@ -1977,6 +1980,7 @@
 				7971026A2863687500B3E1A9 /* viewbuilder.swift in Sources */,
 				797102CA28686F4100B3E1A9 /* State_Struct_Class.swift in Sources */,
 				79BF1787284C5C8F003A2A68 /* listView.swift in Sources */,
+				79E659C8288FBAE200FD54B6 /* justforPractice.swift in Sources */,
 				797102B728681A1900B3E1A9 /* Combine.swift in Sources */,
 				792D2003285DC28000D47503 /* DependencyInjection3.swift in Sources */,
 				793E397928734AEE003F7AF8 /* scrollview.swift in Sources */,
