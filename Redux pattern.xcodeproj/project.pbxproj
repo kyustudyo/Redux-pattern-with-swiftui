@@ -301,6 +301,7 @@
 		79D821E0287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 79D821DE287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png */; };
 		79E659C8288FBAE200FD54B6 /* justforPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E659C7288FBAE200FD54B6 /* justforPractice.swift */; };
 		79F676C3289FBBC500850FF0 /* scroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F676C2289FBBC500850FF0 /* scroll.swift */; };
+		79F676C5289FF7ED00850FF0 /* calander.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F676C4289FF7ED00850FF0 /* calander.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -672,6 +673,7 @@
 		79D821DE287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "스크린샷 2022-07-09 오후 9.20.54.png"; path = "Redux pattern/practice/screenshot/7_9/스크린샷 2022-07-09 오후 9.20.54.png"; sourceTree = SOURCE_ROOT; };
 		79E659C7288FBAE200FD54B6 /* justforPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = justforPractice.swift; sourceTree = "<group>"; };
 		79F676C2289FBBC500850FF0 /* scroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scroll.swift; sourceTree = "<group>"; };
+		79F676C4289FF7ED00850FF0 /* calander.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calander.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1583,6 +1585,7 @@
 			isa = PBXGroup;
 			children = (
 				79F676C2289FBBC500850FF0 /* scroll.swift */,
+				79F676C4289FF7ED00850FF0 /* calander.swift */,
 			);
 			path = 8_7;
 			sourceTree = "<group>";
@@ -1974,6 +1977,7 @@
 				79A988D928868D2A00A00C52 /* alignmentGuide.swift in Sources */,
 				797102C02868495C00B3E1A9 /* TextField참고.swift in Sources */,
 				791A4B122827B89B008395BF /* AddTaskView.swift in Sources */,
+				79F676C5289FF7ED00850FF0 /* calander.swift in Sources */,
 				791A4AA3282775CF008395BF /* ContentView.swift in Sources */,
 				793E399028734B26003F7AF8 /* Images.swift in Sources */,
 				793E398028734B04003F7AF8 /* Card.swift in Sources */,
