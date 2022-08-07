@@ -300,6 +300,7 @@
 		79D821DC287D800A00A9A02C /* buttonss.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D821DB287D800A00A9A02C /* buttonss.swift */; };
 		79D821E0287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 79D821DE287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png */; };
 		79E659C8288FBAE200FD54B6 /* justforPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E659C7288FBAE200FD54B6 /* justforPractice.swift */; };
+		79F676C3289FBBC500850FF0 /* scroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F676C2289FBBC500850FF0 /* scroll.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -500,6 +501,7 @@
 		797102BF2868495C00B3E1A9 /* TextField참고.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TextField참고.swift"; sourceTree = "<group>"; };
 		797102C928686F4100B3E1A9 /* State_Struct_Class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State_Struct_Class.swift; sourceTree = "<group>"; };
 		797960E328788ADB00F8C208 /* test.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = test.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		797A4D6A2893E1B50016C79A /* p.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = p.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		797E3E2A2879980B00468FCC /* map_flatMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = map_flatMap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		798365FA287C72C8005989CE /* 스크린샷 2022-07-10 오후 6.00.00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-07-10 오후 6.00.00.png"; sourceTree = "<group>"; };
 		798365FB287C72C8005989CE /* 스크린샷 2022-07-11 오후 10.08.36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2022-07-11 오후 10.08.36.png"; sourceTree = "<group>"; };
@@ -669,6 +671,7 @@
 		79D821DB287D800A00A9A02C /* buttonss.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonss.swift; sourceTree = "<group>"; };
 		79D821DE287D807D00A9A02C /* 스크린샷 2022-07-09 오후 9.20.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "스크린샷 2022-07-09 오후 9.20.54.png"; path = "Redux pattern/practice/screenshot/7_9/스크린샷 2022-07-09 오후 9.20.54.png"; sourceTree = SOURCE_ROOT; };
 		79E659C7288FBAE200FD54B6 /* justforPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = justforPractice.swift; sourceTree = "<group>"; };
+		79F676C2289FBBC500850FF0 /* scroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scroll.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1196,6 +1199,14 @@
 			path = 7_9;
 			sourceTree = "<group>";
 		};
+		797A4D692893E1A70016C79A /* 7_29 */ = {
+			isa = PBXGroup;
+			children = (
+				797A4D6A2893E1B50016C79A /* p.playground */,
+			);
+			path = 7_29;
+			sourceTree = "<group>";
+		};
 		7983ED8F28598C6000FBF654 /* 6_15_1 */ = {
 			isa = PBXGroup;
 			children = (
@@ -1526,6 +1537,8 @@
 		79AD214C2837CC2000F9F3E4 /* screenshot */ = {
 			isa = PBXGroup;
 			children = (
+				79F676C1289FBBB700850FF0 /* 8_7 */,
+				797A4D692893E1A70016C79A /* 7_29 */,
 				7909953228899B1C0024779B /* 7_21 */,
 				79C90AAE2884FACF00EAAD74 /* 7_18 */,
 				79318C95287E4472003B27D9 /* 7_13 */,
@@ -1564,6 +1577,14 @@
 				79C90AB92884FADF00EAAD74 /* 스크린샷 2022-07-17 오후 11.26.39.png */,
 			);
 			path = 7_18;
+			sourceTree = "<group>";
+		};
+		79F676C1289FBBB700850FF0 /* 8_7 */ = {
+			isa = PBXGroup;
+			children = (
+				79F676C2289FBBC500850FF0 /* scroll.swift */,
+			);
+			path = 8_7;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1947,6 +1968,7 @@
 				791A4B082827AF37008395BF /* CounterReducer.swift in Sources */,
 				7914BD502839EA5D0035B5C9 /* SwiftUIView.swift in Sources */,
 				791A4ACD282775F4008395BF /* Store.swift in Sources */,
+				79F676C3289FBBC500850FF0 /* scroll.swift in Sources */,
 				7991F961283E110E00DCAFB8 /* transition.swift in Sources */,
 				792D1FF7285DB6F500D47503 /* DependencyInjection.swift in Sources */,
 				79A988D928868D2A00A00C52 /* alignmentGuide.swift in Sources */,

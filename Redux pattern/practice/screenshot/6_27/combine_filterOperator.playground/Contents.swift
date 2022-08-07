@@ -32,6 +32,7 @@ publisher.send(Point(x: 5, y: 4))
 
 // flatMap
 print("ㅡㅡㅡㅡㅡㅡㅡflatMapㅡㅡㅡㅡㅡㅡㅡ")
+
 struct School {
     
     let name: String
@@ -47,7 +48,7 @@ struct School {
 }
 
 let citySchool = School(name: "Fo Head School", noOfStudents: 100)
-let citySchool2 = School(name: "Fo Head School", noOfStudents: 95)
+//let citySchool2 = School(name: "Fo Head School", noOfStudents: 95)
 let school = CurrentValueSubject<School, Never>(citySchool)
 
 //school.sink {
@@ -59,7 +60,7 @@ print("map")
 school.map {
     $0.noOfStudents
 }.sink {
-    print("바뀐다 - \($0)")
+    print("바뀐다!! - \($0.value)")
 }
 //내부 값
 print("flat map")
@@ -183,7 +184,7 @@ numbers.drop {
 }.sink {
     print($0)
 }
-
+print("Pass throught subject")
 let isReady = PassthroughSubject<Void, Never>()
 let taps = PassthroughSubject<Int, Never>()
 

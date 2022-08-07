@@ -20,7 +20,7 @@ numbers
     .sink{
         print($0)
     }
-
+print("pass in pass")
 // 패스안에 패스
 let publisher1 = PassthroughSubject<String, Never>()
 let publisher2 = PassthroughSubject<String, Never>()
@@ -71,17 +71,17 @@ let subscription = taps.map { _ in getImage() }
         print($0)
 }
 
-//taps.send()
+taps.send()
 //
 //DispatchQueue.main.asyncAfter(deadline: .now() + 6.0) {
 //    index += 1
 //    taps.send()
 //}
 //
-//DispatchQueue.main.asyncAfter(deadline: .now() + 6.5) {
-//    index += 1
-//    taps.send()
-//}
+DispatchQueue.main.asyncAfter(deadline: .now() + 6.5) {
+    index += 1
+    taps.send()
+}
 
 
 print("ㅡㅡㅡㅡMergeㅡㅡㅡㅡ")
